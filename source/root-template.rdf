@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dcat="http://www.w3.org/ns/dcat#"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:vcard="http://www.w3.org/2006/vcard/ns#">
+
+  <dcat:Catalog rdf:about="http://kulturarvsdata.se/">
+    <dc:description xml:lang="en">SOCH (Swedish Open Cultural Heritage) is a web service used to search and retrieve data from any organisation holding information or media relating to Swedish cultural heritage.</dc:description>
+    <dc:description xml:lang="sv">K-samsök samlar, tillgängliggör och länkar ihop kulturarv från svenska museer och andra minnesinstitutioner. Data om kulturarv – till exempel museiföremål, bildsamlingar och arkivhandlingar – som finns på en mängd olika institutioner och platser samlas in till K-samsöks databas och görs därifrån tillgänglig för användning, berikning och utveckling.</dc:description>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2009-12-10</dc:issued>
+    <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
+    <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+    <dc:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2018-02-01</dc:modified>
+    <dc:publisher rdf:resource="http://www.raa.se/"/>
+    <dc:spatial rdf:resource="http://sws.geonames.org/2661886"/>
+    <dcat:contactPoint rdf:resource="mailto:ksamsok@raa.se"/>
+    <dc:title xml:lang="en">SOCH</dc:title>
+    <dc:title xml:lang="sv">K-samsök</dc:title>
+    <foaf:homepage rdf:resource="https://www.raa.se/k-samsok/"/>
+    <dcat:identifier rdf:resource="http://kulturarvsdata.se/"/>
+    <dc:rights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+    { datasets }
+
+  </dcat:Catalog>
+
+  { agents }
+
+</rdf:RDF>
