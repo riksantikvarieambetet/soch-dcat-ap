@@ -1,0 +1,87 @@
+@prefix adms: <http://www.w3.org/ns/adms#> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://kulturarvsdata.se/> a dcat:Catalog ;
+    dcterms:description """SOCH (Swedish Open Cultural Heritage) is a web service used to search and retrieve data from any organisation holding information or media relating to Swedish cultural heritage."""@en,
+        """K-samsök samlar, tillgängliggör och länkar ihop kulturarv från svenska museer och andra minnesinstitutioner. Data om kulturarv – till exempel museiföremål, bildsamlingar och arkivhandlingar – som finns på en mängd olika institutioner och platser samlas in till K-samsöks databas och görs därifrån tillgänglig för användning, berikning och utveckling."""@sv ;
+    dcterms:issued "2009-12-10"^^xsd:date ;
+    dcterms:language <http://id.loc.gov/vocabulary/iso639-1/sv> ;
+    dcterms:license <http://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:modified "2018-02-01"^^xsd:date ;
+    dcterms:publisher <http://www.raa.se/> ;
+    dcterms:spatial <http://sws.geonames.org/2661886> ;
+    dcat:contactPoint <mailto:ksamsok@raa.se> ;
+    dcterms:title "SOCH"@en,
+        "K-samsök"@sv ;
+    dcat:themeTaxonomy <http://publications.europa.eu/mdr/authority/> ;
+    foaf:homepage <https://www.raa.se/k-samsok/> ;
+    dcat:identifier <http://kulturarvsdata.se/> ;
+    dcterms:rights <https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/>;
+    dcat:dataset [
+         a dcat:Dataset ;
+         dcterms:description "National sites and monuments register for Sweden."@en,
+             "Sveriges fornlämningsinformationssystem"@sv ;
+         dcterms:publisher <http://www.raa.se/> ;
+         dcterms:title "FMIS"@en ,
+             "FMIS"@sv ;
+         dcat:contactPoint <mailto:fmis@raa.se> ;
+         dcat:keyword "monument"@en,
+             "archaeology"@en-UK,
+             "archaeology"@en-US,
+             "historic site"@en,
+             "fornlämning"@sv,
+             "kulturhistorisk lämning"@sv ,
+             "arkeologi"@sv ;
+         dcat:theme <http://publications.europa.eu/resource/authority/data-theme/ENVI> ,
+             <http://publications.europa.eu/resource/authority/data-theme/EDUC> ;
+         dcat:distribution [
+                 a dcat:Distribution ;
+                 dcterms:description "A web-API."@en,
+                     "Ett webb-API."@sv ;
+                 dcterms:format "application/rdf+xml" ;
+                 dcterms:issued "2018-02-01"^^xsd:date ;
+                 foaf:page <https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/> ;
+                 dcterms:license <http://creativecommons.org/publicdomain/zero/1.0/> ;
+                 dcat:accessURL <http://kulturarvsdata.se/ksamsok/api> ;
+          ] ,
+          [
+                 a dcat:Distribution ;
+                 dcterms:description "A web-API."@en,
+                     "Ett webb-API."@sv ;
+                 dcterms:format "application/json-ld" ;
+                 dcterms:issued "2018-02-01"^^xsd:date ;
+                 foaf:page <https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/> ;
+                 dcterms:license <http://creativecommons.org/publicdomain/zero/1.0/> ;
+                 dcat:accessURL <http://kulturarvsdata.se/ksamsok/api> ;
+         ] 
+    ] .
+
+
+<http://www.raa.se/> a foaf:Agent ;
+    dcterms:type <http://purl.org/adms/publishertype/NationalAuthority> ;
+    vcard:hasEmail <mailto:registrator@raa.se> ;
+    foaf:homepage <https://www.raa.se/> ;
+    foaf:name "Swedish National Heritage Board"@en ,
+        "Riksantikvarieämbetet"@sv .
+
+
+
+# Lämpliga Eurovoc URI:er:
+# http://eurovoc.europa.eu/5896 Historic site
+# http://eurovoc.europa.eu/2278 Cultural heritage
+# http://eurovoc.europa.eu/2453 Archaeology
+# http://eurovoc.europa.eu/4100 Architectural Heritage
+# http://eurovoc.europa.eu/5747 Monument
+# http://eurovoc.europa.eu/4877 Cultural object
+# http://eurovoc.europa.eu/2122 Work of Art
+
+# Från <http://publications.europa.eu/mdr/authority/index.html>
+# <http://publications.europa.eu/resource/authority/data-theme/ENVI> Environment
+# <http://publications.europa.eu/resource/authority/data-theme/EDUC> Education, Culture, Sport
