@@ -1,12 +1,16 @@
 import os
+import configparser
+import io
 import requests
 from lxml import etree
 
-def insert_values(template, key, value):
-  template.replace(key, value)
 
-#TODO remove/generate API key and move to settings file
-service_index_source = 'http://www.kulturarvsdata.se/ksamsok/api?method=getServiceOrganization&value=all&x-api=test'
+config = configparser.ConfigParser()
+config.read('config.ini')
+
+soch_api_key = config['DEFAULT']['soch_api_key']
+
+service_index_source = 'http://www.kulturarvsdata.se/ksamsok/api?method=getServiceOrganization&value=all&x-api=' + soch_api_key
 
 r = requests.get(service_index_source)
 xml = etree.XML(r.content)

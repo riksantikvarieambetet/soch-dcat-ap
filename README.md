@@ -9,11 +9,16 @@ Script for generating a single DCAT-AP RDF from SOCH it self.
  - Python 3
  - [Pipenv](https://docs.pipenv.org/)
 
-Cloning, installing dependencies, and running:
+Cloning:
 
 ```
 git clone https://github.com/riksantikvarieambetet/soch-dcat-ap.git
-cd soch-dcat-ap
+```
+
+You should rename `config.ini.example` to `config.ini` and replace the value `test` with your SOCH API key.
+
+Installing dependencies and running:
+```
 pipenv install
 pipenv run python3 source/index.py
 ```
