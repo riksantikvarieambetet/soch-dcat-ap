@@ -23,7 +23,7 @@ for institution_node in xml.xpath('/result/institution'):
 
     if institution['webpage'] == '':
         del institution
-        break
+        continue
 
     institutions.append(institution)
 
@@ -36,7 +36,7 @@ for institution_node in xml.xpath('/result/institution'):
 
         if service['description'] == '':
             del service
-            break
+            continue
 
         services.append(service)
         del service
