@@ -10,6 +10,7 @@
         <dcat:keyword xml:lang="sv">museum</dcat:keyword>
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
+        <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
         <dcat:distribution>
