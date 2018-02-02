@@ -12,6 +12,7 @@
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
         <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:source rdf:resource="{ publisher }"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
         <dcat:distribution>
