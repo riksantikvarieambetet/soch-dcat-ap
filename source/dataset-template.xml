@@ -18,8 +18,8 @@
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
         <dcat:distribution>
           <dcat:Distribution>
-            <dc:description xml:lang="en">A web-API.</dc:description>
-            <dc:description xml:lang="sv">Ett webb-API.</dc:description>
+            <dc:description xml:lang="en">A RDF/XML web-API.</dc:description>
+            <dc:description xml:lang="sv">Ett RDF/XML webb-API.</dc:description>
             <dc:format>application/rdf+xml</dc:format>
             <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
             <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
@@ -30,8 +30,8 @@
 
         <dcat:distribution>
           <dcat:Distribution>
-            <dc:description xml:lang="en">A web-API.</dc:description>
-            <dc:description xml:lang="sv">Ett webb-API.</dc:description>
+            <dc:description xml:lang="en">A JSON LD web-API.</dc:description>
+            <dc:description xml:lang="sv">Ett JSON LD webb-API.</dc:description>
             <dc:format>application/json-ld</dc:format>
             <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
             <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
