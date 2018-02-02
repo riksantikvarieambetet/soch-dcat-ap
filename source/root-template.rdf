@@ -20,10 +20,9 @@
     <foaf:homepage rdf:resource="https://www.raa.se/k-samsok/"/>
     <dcat:identifier rdf:resource="http://kulturarvsdata.se/"/>
     <dc:rights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
-    { datasets }
 
+{ datasets }
   </dcat:Catalog>
 
-  { agents }
-
+{ agents }
 </rdf:RDF>

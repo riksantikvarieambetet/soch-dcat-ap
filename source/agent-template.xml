@@ -1,7 +1,7 @@
-<foaf:Agent rdf:about="{ webpage }">
-    <dc:type rdf:resource="http://purl.org/adms/publishertype/NationalAuthority"/>
-    <vcard:hasEmail rdf:resource="mailto:{ email }"/>
-    <foaf:homepage rdf:resource="{ webpage }"/>
-    <foaf:name xml:lang="en">{ name_en }</foaf:name>
-    <foaf:name xml:lang="sv">{ name_sv }</foaf:name>
-</foaf:Agent>
+  <foaf:Agent rdf:about="{ webpage }">
+      <dc:type rdf:resource="http://purl.org/adms/publishertype/NationalAuthority"/>
+      <vcard:hasEmail rdf:resource="mailto:{ email }"/>
+      <foaf:homepage rdf:resource="{ webpage }"/>
+      <foaf:name xml:lang="en">{ name_en }</foaf:name>
+      <foaf:name xml:lang="sv">{ name_sv }</foaf:name>
+  </foaf:Agent>
