@@ -21,6 +21,10 @@ for institution_node in xml.xpath('/result/institution'):
     institution['webpage'] = institution_node.xpath('.//websida')[0].text or ''
     institution['contact_email'] = institution_node.xpath('.//epostkontaktperson')[0].text or ''
 
+    if institution['webpage'] == '':
+        del institution
+        break
+
     institutions.append(institution)
 
     for service_node in institution_node.xpath('.//services/service'):
@@ -29,6 +33,10 @@ for institution_node in xml.xpath('/result/institution'):
         service['description'] = service_node.xpath('.//beskrvning')[0].text or ''
         service['contact_email'] = institution['contact_email']
         service['publisher_url'] = institution['webpage']
+
+        if service['description'] == '':
+            del service
+            break
 
         services.append(service)
         del service
