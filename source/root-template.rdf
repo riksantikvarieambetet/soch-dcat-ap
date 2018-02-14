@@ -15,7 +15,7 @@
     <dc:publisher rdf:resource="http://www.raa.se/"/>
     <dc:spatial rdf:resource="http://sws.geonames.org/2661886"/>
     <dcat:contactPoint rdf:resource="mailto:ksamsok@raa.se"/>
-    <dc:title xml:lang="en">SOCH</dc:title>
+    <dc:title xml:lang="en">Swedish Open Cultural Heritage</dc:title>
     <dc:title xml:lang="sv">K-samsök</dc:title>
     <dcat:themeTaxonomy rdf:resource="http://publications.europa.eu/mdr/authority/"/>
     <foaf:homepage rdf:resource="https://www.raa.se/k-samsok/"/>
