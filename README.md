@@ -15,7 +15,7 @@ Cloning:
 git clone https://github.com/riksantikvarieambetet/soch-dcat-ap.git
 ```
 
-You should rename `config.ini.example` to `config.ini` and replace the value `test` with your SOCH API key.
+You should rename `config.ini.example` to `config.ini` and replace the value `test` with your SOCH API key. You can also set the API key with the `SOCH_API_KEY` environment variable.
 
 Installing dependencies and running:
 ```

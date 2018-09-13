@@ -8,7 +8,11 @@ from lxml import etree
 config = configparser.ConfigParser()
 config.read('config.ini')
 
-soch_api_key = config['DEFAULT']['soch_api_key']
+
+if 'SOCH_API_KEY' in os.environ:
+    soch_api_key = os.environ.get('SOCH_API_KEY')
+else:
+    soch_api_key = config['DEFAULT']['soch_api_key']
 
 service_index_source = 'http://www.kulturarvsdata.se/ksamsok/api?method=getServiceOrganization&value=all&x-api=' + soch_api_key
 
