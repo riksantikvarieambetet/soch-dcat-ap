@@ -167,3 +167,4 @@ $RECYCLE.BIN/
 # project
 soch.rdf
 config.ini
+.vscode/*
