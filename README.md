@@ -2,6 +2,8 @@
 
 Script for generating a single DCAT-AP RDF from SOCH it self.
 
+[![Build Status](https://travis-ci.com/riksantikvarieambetet/soch-dcat-ap.svg?branch=master)](https://travis-ci.com/riksantikvarieambetet/soch-dcat-ap)
+
 ## Setup
 
 **Prerequisites**
