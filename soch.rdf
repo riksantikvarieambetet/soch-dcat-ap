@@ -3000,49 +3000,6 @@ Fäktning, Jakt, Militär historia, Textil, tyger, Kostym, Vagnar, Hästsport, H
     </dcat:dataset>
     <dcat:dataset>
       <dcat:Dataset>
-        <dc:description xml:lang="sv">Agenter och personer</dc:description>
-        <dc:publisher rdf:resource="http://www.etnografiska.se/"/>
-        <dc:title xml:lang="sv">Etnografiska Agenter</dc:title>
-        <dcat:contactPoint rdf:resource="mailto:"/>
-        <dcat:keyword xml:lang="en">culture</dcat:keyword>
-        <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
-        <dcat:keyword xml:lang="en">museum</dcat:keyword>
-        <dcat:keyword xml:lang="sv">museum</dcat:keyword>
-        <dcat:keyword xml:lang="en">history</dcat:keyword>
-        <dcat:keyword xml:lang="sv">historia</dcat:keyword>
-        <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
-        <dc:source rdf:resource="http://www.etnografiska.se/"/>
-        <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
-        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
-        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
-        <dcat:distribution>
-          <dcat:Distribution>
-            <dc:description xml:lang="en">A RDF/XML web-API.</dc:description>
-            <dc:description xml:lang="sv">Ett RDF/XML webb-API.</dc:description>
-            <dc:format>application/rdf+xml</dc:format>
-            <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
-            <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
-            <dc:rights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
-            <dcat:accessURL rdf:resource="http://kulturarvsdata.se/ksamsok/api"/>
-          </dcat:Distribution>
-        </dcat:distribution>
-
-        <dcat:distribution>
-          <dcat:Distribution>
-            <dc:description xml:lang="en">A JSON LD web-API.</dc:description>
-            <dc:description xml:lang="sv">Ett JSON LD webb-API.</dc:description>
-            <dc:format>application/json-ld</dc:format>
-            <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
-            <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
-            <dc:rights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
-            <dcat:accessURL rdf:resource="http://kulturarvsdata.se/ksamsok/api"/>
-          </dcat:Distribution>
-        </dcat:distribution>
-      </dcat:Dataset>
-    </dcat:dataset>
-    <dcat:dataset>
-      <dcat:Dataset>
         <dc:description xml:lang="sv">Slinga</dc:description>
         <dc:publisher rdf:resource="http://www.etnografiska.se/"/>
         <dc:title xml:lang="sv">Etnografiska slinga</dc:title>
@@ -3132,6 +3089,49 @@ Fäktning, Jakt, Militär historia, Textil, tyger, Kostym, Vagnar, Hästsport, H
         <dc:description xml:lang="sv">Showcase</dc:description>
         <dc:publisher rdf:resource="http://www.etnografiska.se/"/>
         <dc:title xml:lang="sv">Etnografiska showcase</dc:title>
+        <dcat:contactPoint rdf:resource="mailto:"/>
+        <dcat:keyword xml:lang="en">culture</dcat:keyword>
+        <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
+        <dcat:keyword xml:lang="en">museum</dcat:keyword>
+        <dcat:keyword xml:lang="sv">museum</dcat:keyword>
+        <dcat:keyword xml:lang="en">history</dcat:keyword>
+        <dcat:keyword xml:lang="sv">historia</dcat:keyword>
+        <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
+        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:source rdf:resource="http://www.etnografiska.se/"/>
+        <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+        <dcat:distribution>
+          <dcat:Distribution>
+            <dc:description xml:lang="en">A RDF/XML web-API.</dc:description>
+            <dc:description xml:lang="sv">Ett RDF/XML webb-API.</dc:description>
+            <dc:format>application/rdf+xml</dc:format>
+            <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
+            <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+            <dc:rights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+            <dcat:accessURL rdf:resource="http://kulturarvsdata.se/ksamsok/api"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+
+        <dcat:distribution>
+          <dcat:Distribution>
+            <dc:description xml:lang="en">A JSON LD web-API.</dc:description>
+            <dc:description xml:lang="sv">Ett JSON LD webb-API.</dc:description>
+            <dc:format>application/json-ld</dc:format>
+            <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
+            <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+            <dc:rights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+            <dcat:accessURL rdf:resource="http://kulturarvsdata.se/ksamsok/api"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+      </dcat:Dataset>
+    </dcat:dataset>
+    <dcat:dataset>
+      <dcat:Dataset>
+        <dc:description xml:lang="sv">Agenter och personer</dc:description>
+        <dc:publisher rdf:resource="http://www.etnografiska.se/"/>
+        <dc:title xml:lang="sv">Etnografiska Agenter</dc:title>
         <dcat:contactPoint rdf:resource="mailto:"/>
         <dcat:keyword xml:lang="en">culture</dcat:keyword>
         <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
@@ -3946,9 +3946,9 @@ Fäktning, Jakt, Militär historia, Textil, tyger, Kostym, Vagnar, Hästsport, H
     </dcat:dataset>
     <dcat:dataset>
       <dcat:Dataset>
-        <dc:description xml:lang="sv">Delobjet</dc:description>
+        <dc:description xml:lang="sv">Föremål</dc:description>
         <dc:publisher rdf:resource="https://helsingborg.se/uppleva-och-gora/kultur-och-museer/kulturmagasinet/"/>
-        <dc:title xml:lang="sv">Kulturmagasinet, Helsingborgs museer, delobjekt</dc:title>
+        <dc:title xml:lang="sv">Kulturmagasinet, Helsingborgs museer, objekt</dc:title>
         <dcat:contactPoint rdf:resource="mailto:"/>
         <dcat:keyword xml:lang="en">culture</dcat:keyword>
         <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
@@ -3989,9 +3989,9 @@ Fäktning, Jakt, Militär historia, Textil, tyger, Kostym, Vagnar, Hästsport, H
     </dcat:dataset>
     <dcat:dataset>
       <dcat:Dataset>
-        <dc:description xml:lang="sv">Föremål</dc:description>
+        <dc:description xml:lang="sv">Delobjet</dc:description>
         <dc:publisher rdf:resource="https://helsingborg.se/uppleva-och-gora/kultur-och-museer/kulturmagasinet/"/>
-        <dc:title xml:lang="sv">Kulturmagasinet, Helsingborgs museer, objekt</dc:title>
+        <dc:title xml:lang="sv">Kulturmagasinet, Helsingborgs museer, delobjekt</dc:title>
         <dcat:contactPoint rdf:resource="mailto:"/>
         <dcat:keyword xml:lang="en">culture</dcat:keyword>
         <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
@@ -4806,53 +4806,6 @@ Fäktning, Jakt, Militär historia, Textil, tyger, Kostym, Vagnar, Hästsport, H
     </dcat:dataset>
     <dcat:dataset>
       <dcat:Dataset>
-        <dc:description xml:lang="sv">Bebyggelseregistret, BeBR, är ett nationellt register med information om det byggda kulturarvet. Här ryms allt från timmerstugor och gamla industrimiljöer till modern stadsbebyggelse. Det finns omkring 80 000 sökbara poster i registret, av dem är cirka 13000 byggnader skyddade som byggnadsminnen och kyrkor. Uppdateringar och nya registreringar görs kontinuerligt. De uppgifter som finns presenterade i Bebyggelseregistret är hämtade från inventeringar, dokumentationer, arkiv och litteratur. Informationen är framtagen och registrerad av regionala museer, Svenska Kyrkan, länsstyrelser, kommuner, universitet och högskolor i samverkan med Riksantikvarieämbetet.
-
-Termen anläggning har sedan länge använts inom kulturmiljövården i olika sammanhang bland annat vid bebyggelseinventeringar. En anläggning betecknar i det här sammanhanget ett avgränsat område med en eller flera byggnader. Byggnaderna har ett gemensamt, funktionellt samband och utgör tillsammans t.ex. en bondgård, en skola eller ett bostadshus med garage. Det område, som tillsammans med byggnaden/byggnaderna, bildar en anläggning överensstämmer oftast ytmässigt med den berörda fastigheten. 
-I ett inventeringsarbete har fältarbetet mestadels gjorts fastighetsvis med en beskrivning av de enskilda byggnaderna och av den tomt eller gårdsmiljö som omger byggnaderna. I flera fall har en situationsplan med markering för byggnaden/byggnaderna och för t.ex. växtlighet, gångar, staket eller murar tagits fram.
-</dc:description>
-        <dc:publisher rdf:resource="https://www.raa.se/"/>
-        <dc:title xml:lang="sv">Bebyggelseregistret anläggning</dc:title>
-        <dcat:contactPoint rdf:resource="mailto:ksamsok@raa.se"/>
-        <dcat:keyword xml:lang="en">culture</dcat:keyword>
-        <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
-        <dcat:keyword xml:lang="en">museum</dcat:keyword>
-        <dcat:keyword xml:lang="sv">museum</dcat:keyword>
-        <dcat:keyword xml:lang="en">history</dcat:keyword>
-        <dcat:keyword xml:lang="sv">historia</dcat:keyword>
-        <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
-        <dc:source rdf:resource="https://www.raa.se/"/>
-        <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
-        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
-        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
-        <dcat:distribution>
-          <dcat:Distribution>
-            <dc:description xml:lang="en">A RDF/XML web-API.</dc:description>
-            <dc:description xml:lang="sv">Ett RDF/XML webb-API.</dc:description>
-            <dc:format>application/rdf+xml</dc:format>
-            <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
-            <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
-            <dc:rights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
-            <dcat:accessURL rdf:resource="http://kulturarvsdata.se/ksamsok/api"/>
-          </dcat:Distribution>
-        </dcat:distribution>
-
-        <dcat:distribution>
-          <dcat:Distribution>
-            <dc:description xml:lang="en">A JSON LD web-API.</dc:description>
-            <dc:description xml:lang="sv">Ett JSON LD webb-API.</dc:description>
-            <dc:format>application/json-ld</dc:format>
-            <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
-            <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
-            <dc:rights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
-            <dcat:accessURL rdf:resource="http://kulturarvsdata.se/ksamsok/api"/>
-          </dcat:Distribution>
-        </dcat:distribution>
-      </dcat:Dataset>
-    </dcat:dataset>
-    <dcat:dataset>
-      <dcat:Dataset>
         <dc:description xml:lang="sv">Riksantikvarieämbetets egna publikationer</dc:description>
         <dc:publisher rdf:resource="https://www.raa.se/"/>
         <dc:title xml:lang="sv">Utgivet av RAÄ</dc:title>
@@ -4984,10 +4937,57 @@ I ett inventeringsarbete har fältarbetet mestadels gjorts fastighetsvis med en 
       <dcat:Dataset>
         <dc:description xml:lang="sv">Bebyggelseregistret, BeBR, är ett nationellt register med information om det byggda kulturarvet. Här ryms allt från timmerstugor och gamla industrimiljöer till modern stadsbebyggelse. Det finns omkring 80 000 sökbara poster i registret, av dem är cirka 13000 byggnader skyddade som byggnadsminnen och kyrkor. Uppdateringar och nya registreringar görs kontinuerligt. De uppgifter som finns presenterade i Bebyggelseregistret är hämtade från inventeringar, dokumentationer, arkiv och litteratur. Informationen är framtagen och registrerad av regionala museer, Svenska Kyrkan, länsstyrelser, kommuner, universitet och högskolor i samverkan med Riksantikvarieämbetet.
 
-I BeBR betecknar byggnad en funktionellt självständig byggnadskropp, företrädesvis under tak och i en eller flera våningar. Den kan vara försedd med på- och tillbyggnader. BeBR:s begrepp omfattar även byggnadsverk och objekt av annat slag t.ex. bro, brygga damm, dansbana etc. Registrets byggnader är indelade i funktioner. Med funktion menas det ändamål för vilken byggnaden/objektet en gång har skapats eller senare kommit att präglas av. Exempel på byggnadsfunktioner är bl.a. bod, ekonomibyggnad, operahus och skolbyggnad.
+I BeBR avser miljö den fysiska miljö där bebyggelsen ligger. Miljön är indelad i olika kategorier, baserade på den indelning i landskaps- och miljötyper som tillämpas av RAÄ vid beskrivning av riksintresseområdena för kulturminnesvård. Exempel på miljökategorier är kust- och skärgårdsmiljö, odlingslandskap och bruksmiljö.
 </dc:description>
         <dc:publisher rdf:resource="https://www.raa.se/"/>
-        <dc:title xml:lang="sv">Bebyggelseregistret byggnad</dc:title>
+        <dc:title xml:lang="sv">Bebyggelseregistret miljö</dc:title>
+        <dcat:contactPoint rdf:resource="mailto:ksamsok@raa.se"/>
+        <dcat:keyword xml:lang="en">culture</dcat:keyword>
+        <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
+        <dcat:keyword xml:lang="en">museum</dcat:keyword>
+        <dcat:keyword xml:lang="sv">museum</dcat:keyword>
+        <dcat:keyword xml:lang="en">history</dcat:keyword>
+        <dcat:keyword xml:lang="sv">historia</dcat:keyword>
+        <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
+        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:source rdf:resource="https://www.raa.se/"/>
+        <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+        <dcat:distribution>
+          <dcat:Distribution>
+            <dc:description xml:lang="en">A RDF/XML web-API.</dc:description>
+            <dc:description xml:lang="sv">Ett RDF/XML webb-API.</dc:description>
+            <dc:format>application/rdf+xml</dc:format>
+            <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
+            <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+            <dc:rights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+            <dcat:accessURL rdf:resource="http://kulturarvsdata.se/ksamsok/api"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+
+        <dcat:distribution>
+          <dcat:Distribution>
+            <dc:description xml:lang="en">A JSON LD web-API.</dc:description>
+            <dc:description xml:lang="sv">Ett JSON LD webb-API.</dc:description>
+            <dc:format>application/json-ld</dc:format>
+            <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
+            <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+            <dc:rights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+            <dcat:accessURL rdf:resource="http://kulturarvsdata.se/ksamsok/api"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+      </dcat:Dataset>
+    </dcat:dataset>
+    <dcat:dataset>
+      <dcat:Dataset>
+        <dc:description xml:lang="sv">Bebyggelseregistret, BeBR, är ett nationellt register med information om det byggda kulturarvet. Här ryms allt från timmerstugor och gamla industrimiljöer till modern stadsbebyggelse. Det finns omkring 80 000 sökbara poster i registret, av dem är cirka 13000 byggnader skyddade som byggnadsminnen och kyrkor. Uppdateringar och nya registreringar görs kontinuerligt. De uppgifter som finns presenterade i Bebyggelseregistret är hämtade från inventeringar, dokumentationer, arkiv och litteratur. Informationen är framtagen och registrerad av regionala museer, Svenska Kyrkan, länsstyrelser, kommuner, universitet och högskolor i samverkan med Riksantikvarieämbetet.
+
+Termen anläggning har sedan länge använts inom kulturmiljövården i olika sammanhang bland annat vid bebyggelseinventeringar. En anläggning betecknar i det här sammanhanget ett avgränsat område med en eller flera byggnader. Byggnaderna har ett gemensamt, funktionellt samband och utgör tillsammans t.ex. en bondgård, en skola eller ett bostadshus med garage. Det område, som tillsammans med byggnaden/byggnaderna, bildar en anläggning överensstämmer oftast ytmässigt med den berörda fastigheten. 
+I ett inventeringsarbete har fältarbetet mestadels gjorts fastighetsvis med en beskrivning av de enskilda byggnaderna och av den tomt eller gårdsmiljö som omger byggnaderna. I flera fall har en situationsplan med markering för byggnaden/byggnaderna och för t.ex. växtlighet, gångar, staket eller murar tagits fram.
+</dc:description>
+        <dc:publisher rdf:resource="https://www.raa.se/"/>
+        <dc:title xml:lang="sv">Bebyggelseregistret anläggning</dc:title>
         <dcat:contactPoint rdf:resource="mailto:ksamsok@raa.se"/>
         <dcat:keyword xml:lang="en">culture</dcat:keyword>
         <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
@@ -5073,10 +5073,10 @@ I BeBR betecknar byggnad en funktionellt självständig byggnadskropp, företrä
       <dcat:Dataset>
         <dc:description xml:lang="sv">Bebyggelseregistret, BeBR, är ett nationellt register med information om det byggda kulturarvet. Här ryms allt från timmerstugor och gamla industrimiljöer till modern stadsbebyggelse. Det finns omkring 80 000 sökbara poster i registret, av dem är cirka 13000 byggnader skyddade som byggnadsminnen och kyrkor. Uppdateringar och nya registreringar görs kontinuerligt. De uppgifter som finns presenterade i Bebyggelseregistret är hämtade från inventeringar, dokumentationer, arkiv och litteratur. Informationen är framtagen och registrerad av regionala museer, Svenska Kyrkan, länsstyrelser, kommuner, universitet och högskolor i samverkan med Riksantikvarieämbetet.
 
-I BeBR avser miljö den fysiska miljö där bebyggelsen ligger. Miljön är indelad i olika kategorier, baserade på den indelning i landskaps- och miljötyper som tillämpas av RAÄ vid beskrivning av riksintresseområdena för kulturminnesvård. Exempel på miljökategorier är kust- och skärgårdsmiljö, odlingslandskap och bruksmiljö.
+I BeBR betecknar byggnad en funktionellt självständig byggnadskropp, företrädesvis under tak och i en eller flera våningar. Den kan vara försedd med på- och tillbyggnader. BeBR:s begrepp omfattar även byggnadsverk och objekt av annat slag t.ex. bro, brygga damm, dansbana etc. Registrets byggnader är indelade i funktioner. Med funktion menas det ändamål för vilken byggnaden/objektet en gång har skapats eller senare kommit att präglas av. Exempel på byggnadsfunktioner är bl.a. bod, ekonomibyggnad, operahus och skolbyggnad.
 </dc:description>
         <dc:publisher rdf:resource="https://www.raa.se/"/>
-        <dc:title xml:lang="sv">Bebyggelseregistret miljö</dc:title>
+        <dc:title xml:lang="sv">Bebyggelseregistret byggnad</dc:title>
         <dcat:contactPoint rdf:resource="mailto:ksamsok@raa.se"/>
         <dcat:keyword xml:lang="en">culture</dcat:keyword>
         <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
@@ -5205,49 +5205,6 @@ Fotografierna är tagna under en period som sträcker sig från 1800-talets slut
     </dcat:dataset>
     <dcat:dataset>
       <dcat:Dataset>
-        <dc:description xml:lang="sv">Bebyggelseregistretsorganisationsregister innehåller förhållandevis få uppgifter i nuläget. Registret kommer att omarbetas framöver, men ingen tidsplan är fastställd ännu.</dc:description>
-        <dc:publisher rdf:resource="https://www.raa.se/"/>
-        <dc:title xml:lang="sv">Bebyggelseregistret organisationer</dc:title>
-        <dcat:contactPoint rdf:resource="mailto:ksamsok@raa.se"/>
-        <dcat:keyword xml:lang="en">culture</dcat:keyword>
-        <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
-        <dcat:keyword xml:lang="en">museum</dcat:keyword>
-        <dcat:keyword xml:lang="sv">museum</dcat:keyword>
-        <dcat:keyword xml:lang="en">history</dcat:keyword>
-        <dcat:keyword xml:lang="sv">historia</dcat:keyword>
-        <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
-        <dc:source rdf:resource="https://www.raa.se/"/>
-        <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
-        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
-        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
-        <dcat:distribution>
-          <dcat:Distribution>
-            <dc:description xml:lang="en">A RDF/XML web-API.</dc:description>
-            <dc:description xml:lang="sv">Ett RDF/XML webb-API.</dc:description>
-            <dc:format>application/rdf+xml</dc:format>
-            <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
-            <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
-            <dc:rights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
-            <dcat:accessURL rdf:resource="http://kulturarvsdata.se/ksamsok/api"/>
-          </dcat:Distribution>
-        </dcat:distribution>
-
-        <dcat:distribution>
-          <dcat:Distribution>
-            <dc:description xml:lang="en">A JSON LD web-API.</dc:description>
-            <dc:description xml:lang="sv">Ett JSON LD webb-API.</dc:description>
-            <dc:format>application/json-ld</dc:format>
-            <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
-            <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
-            <dc:rights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
-            <dcat:accessURL rdf:resource="http://kulturarvsdata.se/ksamsok/api"/>
-          </dcat:Distribution>
-        </dcat:distribution>
-      </dcat:Dataset>
-    </dcat:dataset>
-    <dcat:dataset>
-      <dcat:Dataset>
         <dc:description xml:lang="sv">Uppdragsarkeologiskvetenskap och populärvetenskap 2015-</dc:description>
         <dc:publisher rdf:resource="https://www.raa.se/"/>
         <dc:title xml:lang="sv">Uppdragsarkeologiskvetenskap och populärvetenskap 2015-</dc:title>
@@ -5334,6 +5291,49 @@ Fotografierna är tagna under en period som sträcker sig från 1800-talets slut
     </dcat:dataset>
     <dcat:dataset>
       <dcat:Dataset>
+        <dc:description xml:lang="sv">Bebyggelseregistretsorganisationsregister innehåller förhållandevis få uppgifter i nuläget. Registret kommer att omarbetas framöver, men ingen tidsplan är fastställd ännu.</dc:description>
+        <dc:publisher rdf:resource="https://www.raa.se/"/>
+        <dc:title xml:lang="sv">Bebyggelseregistret organisationer</dc:title>
+        <dcat:contactPoint rdf:resource="mailto:ksamsok@raa.se"/>
+        <dcat:keyword xml:lang="en">culture</dcat:keyword>
+        <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
+        <dcat:keyword xml:lang="en">museum</dcat:keyword>
+        <dcat:keyword xml:lang="sv">museum</dcat:keyword>
+        <dcat:keyword xml:lang="en">history</dcat:keyword>
+        <dcat:keyword xml:lang="sv">historia</dcat:keyword>
+        <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
+        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:source rdf:resource="https://www.raa.se/"/>
+        <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+        <dcat:distribution>
+          <dcat:Distribution>
+            <dc:description xml:lang="en">A RDF/XML web-API.</dc:description>
+            <dc:description xml:lang="sv">Ett RDF/XML webb-API.</dc:description>
+            <dc:format>application/rdf+xml</dc:format>
+            <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
+            <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+            <dc:rights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+            <dcat:accessURL rdf:resource="http://kulturarvsdata.se/ksamsok/api"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+
+        <dcat:distribution>
+          <dcat:Distribution>
+            <dc:description xml:lang="en">A JSON LD web-API.</dc:description>
+            <dc:description xml:lang="sv">Ett JSON LD webb-API.</dc:description>
+            <dc:format>application/json-ld</dc:format>
+            <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
+            <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+            <dc:rights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+            <dcat:accessURL rdf:resource="http://kulturarvsdata.se/ksamsok/api"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+      </dcat:Dataset>
+    </dcat:dataset>
+    <dcat:dataset>
+      <dcat:Dataset>
         <dc:description xml:lang="sv">Arkeologiska uppdragsverksamheten (UV) rapporter 2000-2012</dc:description>
         <dc:publisher rdf:resource="https://www.raa.se/"/>
         <dc:title xml:lang="sv">Arkeologiska uppdragsverksamheten (UV) rapporter 2000-2012</dc:title>
@@ -5377,9 +5377,9 @@ Fotografierna är tagna under en period som sträcker sig från 1800-talets slut
     </dcat:dataset>
     <dcat:dataset>
       <dcat:Dataset>
-        <dc:description xml:lang="sv">Bebyggelseregistrets personregister innehåller förhållandevis få uppgifter i nuläget. Registret kommer att omarbetas framöver, men ingen tidsplan är fastställd ännu.</dc:description>
+        <dc:description xml:lang="sv">Sveriges kyrkor</dc:description>
         <dc:publisher rdf:resource="https://www.raa.se/"/>
-        <dc:title xml:lang="sv">Bebyggelseregistret personer</dc:title>
+        <dc:title xml:lang="sv">Sveriges kyrkor</dc:title>
         <dcat:contactPoint rdf:resource="mailto:ksamsok@raa.se"/>
         <dcat:keyword xml:lang="en">culture</dcat:keyword>
         <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
@@ -5420,9 +5420,9 @@ Fotografierna är tagna under en period som sträcker sig från 1800-talets slut
     </dcat:dataset>
     <dcat:dataset>
       <dcat:Dataset>
-        <dc:description xml:lang="sv">Sveriges kyrkor</dc:description>
+        <dc:description xml:lang="sv">Bebyggelseregistrets personregister innehåller förhållandevis få uppgifter i nuläget. Registret kommer att omarbetas framöver, men ingen tidsplan är fastställd ännu.</dc:description>
         <dc:publisher rdf:resource="https://www.raa.se/"/>
-        <dc:title xml:lang="sv">Sveriges kyrkor</dc:title>
+        <dc:title xml:lang="sv">Bebyggelseregistret personer</dc:title>
         <dcat:contactPoint rdf:resource="mailto:ksamsok@raa.se"/>
         <dcat:keyword xml:lang="en">culture</dcat:keyword>
         <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
@@ -6151,9 +6151,9 @@ Fotografierna är tagna under en period som sträcker sig från 1800-talets slut
     </dcat:dataset>
     <dcat:dataset>
       <dcat:Dataset>
-        <dc:description xml:lang="sv">Bebyggelser</dc:description>
+        <dc:description xml:lang="sv">Inventeringar</dc:description>
         <dc:publisher rdf:resource="http://goteborgsstadsmuseum.se/"/>
-        <dc:title xml:lang="sv">Göteborgs stadsmuseum, bebyggelse</dc:title>
+        <dc:title xml:lang="sv">Göteborgs stadsmuseum, inventering</dc:title>
         <dcat:contactPoint rdf:resource="mailto:"/>
         <dcat:keyword xml:lang="en">culture</dcat:keyword>
         <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
@@ -6194,9 +6194,9 @@ Fotografierna är tagna under en period som sträcker sig från 1800-talets slut
     </dcat:dataset>
     <dcat:dataset>
       <dcat:Dataset>
-        <dc:description xml:lang="sv">Inventeringar</dc:description>
+        <dc:description xml:lang="sv">Bebyggelser</dc:description>
         <dc:publisher rdf:resource="http://goteborgsstadsmuseum.se/"/>
-        <dc:title xml:lang="sv">Göteborgs stadsmuseum, inventering</dc:title>
+        <dc:title xml:lang="sv">Göteborgs stadsmuseum, bebyggelse</dc:title>
         <dcat:contactPoint rdf:resource="mailto:"/>
         <dcat:keyword xml:lang="en">culture</dcat:keyword>
         <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
