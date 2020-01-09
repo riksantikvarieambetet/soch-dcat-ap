@@ -35,7 +35,7 @@
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.varldskulturmuseerna.se/ostasiatiskamuseet/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -78,7 +78,7 @@
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.varldskulturmuseerna.se/ostasiatiskamuseet/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -121,7 +121,7 @@
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.varldskulturmuseerna.se/ostasiatiskamuseet/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -164,7 +164,7 @@
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.varldskulturmuseerna.se/ostasiatiskamuseet/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -207,7 +207,7 @@
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.varldskulturmuseerna.se/ostasiatiskamuseet/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -250,7 +250,7 @@
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.varldskulturmuseerna.se/ostasiatiskamuseet/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -293,7 +293,7 @@
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.varldskulturmuseerna.se/ostasiatiskamuseet/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -336,7 +336,7 @@
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.varldskulturmuseerna.se/ostasiatiskamuseet/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -379,7 +379,7 @@
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.varldskulturmuseerna.se/ostasiatiskamuseet/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -422,7 +422,7 @@
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="https://www.marinmuseum.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -465,7 +465,7 @@
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.simrishamn.se/museum"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -508,7 +508,7 @@
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.historiska.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -553,7 +553,7 @@ Föremålen fanns vid inventeringen 1990-1995 ute i kyrkorna eller vid museer. D
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.historiska.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -596,7 +596,7 @@ Föremålen fanns vid inventeringen 1990-1995 ute i kyrkorna eller vid museer. D
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.historiska.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -639,7 +639,7 @@ Föremålen fanns vid inventeringen 1990-1995 ute i kyrkorna eller vid museer. D
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.historiska.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -686,7 +686,7 @@ Föremålen fanns vid inventeringen 1990-1995 ute i kyrkorna eller vid museer. D
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.historiska.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -729,7 +729,7 @@ Föremålen fanns vid inventeringen 1990-1995 ute i kyrkorna eller vid museer. D
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.historiska.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -772,7 +772,7 @@ Föremålen fanns vid inventeringen 1990-1995 ute i kyrkorna eller vid museer. D
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.historiska.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -815,7 +815,7 @@ Föremålen fanns vid inventeringen 1990-1995 ute i kyrkorna eller vid museer. D
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.medelhavsmuseet.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -858,7 +858,7 @@ Föremålen fanns vid inventeringen 1990-1995 ute i kyrkorna eller vid museer. D
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.medelhavsmuseet.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -901,7 +901,7 @@ Föremålen fanns vid inventeringen 1990-1995 ute i kyrkorna eller vid museer. D
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.medelhavsmuseet.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -944,7 +944,7 @@ Föremålen fanns vid inventeringen 1990-1995 ute i kyrkorna eller vid museer. D
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.medelhavsmuseet.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -987,7 +987,7 @@ Föremålen fanns vid inventeringen 1990-1995 ute i kyrkorna eller vid museer. D
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.medelhavsmuseet.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -1030,7 +1030,7 @@ Föremålen fanns vid inventeringen 1990-1995 ute i kyrkorna eller vid museer. D
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.medelhavsmuseet.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -1073,7 +1073,7 @@ Föremålen fanns vid inventeringen 1990-1995 ute i kyrkorna eller vid museer. D
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.medelhavsmuseet.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -1116,7 +1116,7 @@ Föremålen fanns vid inventeringen 1990-1995 ute i kyrkorna eller vid museer. D
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.medelhavsmuseet.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -1159,7 +1159,7 @@ Föremålen fanns vid inventeringen 1990-1995 ute i kyrkorna eller vid museer. D
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.medelhavsmuseet.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -1202,7 +1202,7 @@ Föremålen fanns vid inventeringen 1990-1995 ute i kyrkorna eller vid museer. D
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.medelhavsmuseet.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -1245,7 +1245,7 @@ Föremålen fanns vid inventeringen 1990-1995 ute i kyrkorna eller vid museer. D
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.medelhavsmuseet.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -1288,7 +1288,7 @@ Föremålen fanns vid inventeringen 1990-1995 ute i kyrkorna eller vid museer. D
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.medelhavsmuseet.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -1331,7 +1331,7 @@ Föremålen fanns vid inventeringen 1990-1995 ute i kyrkorna eller vid museer. D
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://enkoping.se/underwebbar/enkopings-museum.html"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -1374,7 +1374,7 @@ Föremålen fanns vid inventeringen 1990-1995 ute i kyrkorna eller vid museer. D
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="https://www.nordiskamuseet.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -1417,7 +1417,7 @@ Föremålen fanns vid inventeringen 1990-1995 ute i kyrkorna eller vid museer. D
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.lsh.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -1460,7 +1460,7 @@ Föremålen fanns vid inventeringen 1990-1995 ute i kyrkorna eller vid museer. D
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.lsh.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -1503,7 +1503,7 @@ Föremålen fanns vid inventeringen 1990-1995 ute i kyrkorna eller vid museer. D
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.lsh.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -1546,7 +1546,7 @@ Föremålen fanns vid inventeringen 1990-1995 ute i kyrkorna eller vid museer. D
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.tekniskamuseet.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -1589,7 +1589,7 @@ Föremålen fanns vid inventeringen 1990-1995 ute i kyrkorna eller vid museer. D
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="https://www.vanermuseet.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -1632,7 +1632,7 @@ Föremålen fanns vid inventeringen 1990-1995 ute i kyrkorna eller vid museer. D
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.jkpglm.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -1675,7 +1675,7 @@ Föremålen fanns vid inventeringen 1990-1995 ute i kyrkorna eller vid museer. D
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.fastningsmuseet.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -1718,7 +1718,7 @@ Föremålen fanns vid inventeringen 1990-1995 ute i kyrkorna eller vid museer. D
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.blekingemuseum.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -1761,7 +1761,7 @@ Föremålen fanns vid inventeringen 1990-1995 ute i kyrkorna eller vid museer. D
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.soundsofchanges.eu/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -1804,7 +1804,7 @@ Föremålen fanns vid inventeringen 1990-1995 ute i kyrkorna eller vid museer. D
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="https://www.kulturen.com/samlingar/sok-i-samlingarna/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -1847,7 +1847,7 @@ Föremålen fanns vid inventeringen 1990-1995 ute i kyrkorna eller vid museer. D
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://halsinglandsmuseum.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -1890,7 +1890,7 @@ Föremålen fanns vid inventeringen 1990-1995 ute i kyrkorna eller vid museer. D
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://malmo.se/Kultur--fritid/Kultur--noje/Museer--utstallningar/Malmo-Museer.html"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -1933,7 +1933,7 @@ Föremålen fanns vid inventeringen 1990-1995 ute i kyrkorna eller vid museer. D
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://malmo.se/Kultur--fritid/Kultur--noje/Museer--utstallningar/Malmo-Museer.html"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -1976,7 +1976,7 @@ Föremålen fanns vid inventeringen 1990-1995 ute i kyrkorna eller vid museer. D
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://malmo.se/Kultur--fritid/Kultur--noje/Museer--utstallningar/Malmo-Museer.html"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -2019,7 +2019,7 @@ Föremålen fanns vid inventeringen 1990-1995 ute i kyrkorna eller vid museer. D
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://malmo.se/Kultur--fritid/Kultur--noje/Museer--utstallningar/Malmo-Museer.html"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -2062,7 +2062,7 @@ Föremålen fanns vid inventeringen 1990-1995 ute i kyrkorna eller vid museer. D
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://malmo.se/Kultur--fritid/Kultur--noje/Museer--utstallningar/Malmo-Museer.html"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -2105,7 +2105,7 @@ Föremålen fanns vid inventeringen 1990-1995 ute i kyrkorna eller vid museer. D
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.vaggeryd.se/uppleva-och-gora/kultur/miliseum.html"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -2148,7 +2148,7 @@ Föremålen fanns vid inventeringen 1990-1995 ute i kyrkorna eller vid museer. D
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="https://www.sormlandsmuseum.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -2191,7 +2191,7 @@ Föremålen fanns vid inventeringen 1990-1995 ute i kyrkorna eller vid museer. D
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.ostergotlandsmuseum.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -2234,7 +2234,7 @@ Föremålen fanns vid inventeringen 1990-1995 ute i kyrkorna eller vid museer. D
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="https://www.sjohistoriska.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -2277,7 +2277,7 @@ Föremålen fanns vid inventeringen 1990-1995 ute i kyrkorna eller vid museer. D
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.flygvapenmuseum.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -2321,7 +2321,7 @@ Ett urval av bilder som läses tillbaka till Kringla.</dc:description>
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.vastarvet.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -2364,7 +2364,7 @@ Ett urval av bilder som läses tillbaka till Kringla.</dc:description>
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.sockenbilder.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -2407,7 +2407,7 @@ Ett urval av bilder som läses tillbaka till Kringla.</dc:description>
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.bohuslansmuseum.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -2450,7 +2450,7 @@ Ett urval av bilder som läses tillbaka till Kringla.</dc:description>
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.unstraight.org/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -2493,7 +2493,7 @@ Ett urval av bilder som läses tillbaka till Kringla.</dc:description>
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.hemsofastning.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -2536,7 +2536,7 @@ Ett urval av bilder som läses tillbaka till Kringla.</dc:description>
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="https://teleseum.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -2579,7 +2579,7 @@ Ett urval av bilder som läses tillbaka till Kringla.</dc:description>
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.livrustkammaren.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -2624,7 +2624,7 @@ Fäktning, Jakt, Militär historia, Textil, tyger, Kostym, Vagnar, Hästsport, H
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.livrustkammaren.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -2667,7 +2667,7 @@ Fäktning, Jakt, Militär historia, Textil, tyger, Kostym, Vagnar, Hästsport, H
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="https://www.vasamuseet.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -2710,7 +2710,7 @@ Fäktning, Jakt, Militär historia, Textil, tyger, Kostym, Vagnar, Hästsport, H
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="https://teknikland.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -2753,7 +2753,7 @@ Fäktning, Jakt, Militär historia, Textil, tyger, Kostym, Vagnar, Hästsport, H
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.vanersborgsmuseum.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -2796,7 +2796,7 @@ Fäktning, Jakt, Militär historia, Textil, tyger, Kostym, Vagnar, Hästsport, H
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.etnografiska.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -2839,7 +2839,7 @@ Fäktning, Jakt, Militär historia, Textil, tyger, Kostym, Vagnar, Hästsport, H
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.etnografiska.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -2882,7 +2882,7 @@ Fäktning, Jakt, Militär historia, Textil, tyger, Kostym, Vagnar, Hästsport, H
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.etnografiska.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -2925,7 +2925,7 @@ Fäktning, Jakt, Militär historia, Textil, tyger, Kostym, Vagnar, Hästsport, H
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.etnografiska.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -2968,7 +2968,7 @@ Fäktning, Jakt, Militär historia, Textil, tyger, Kostym, Vagnar, Hästsport, H
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.etnografiska.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -3011,7 +3011,7 @@ Fäktning, Jakt, Militär historia, Textil, tyger, Kostym, Vagnar, Hästsport, H
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.etnografiska.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -3054,7 +3054,7 @@ Fäktning, Jakt, Militär historia, Textil, tyger, Kostym, Vagnar, Hästsport, H
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.etnografiska.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -3097,7 +3097,7 @@ Fäktning, Jakt, Militär historia, Textil, tyger, Kostym, Vagnar, Hästsport, H
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.etnografiska.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -3140,7 +3140,7 @@ Fäktning, Jakt, Militär historia, Textil, tyger, Kostym, Vagnar, Hästsport, H
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.etnografiska.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -3183,7 +3183,7 @@ Fäktning, Jakt, Militär historia, Textil, tyger, Kostym, Vagnar, Hästsport, H
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.etnografiska.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -3226,7 +3226,7 @@ Fäktning, Jakt, Militär historia, Textil, tyger, Kostym, Vagnar, Hästsport, H
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.etnografiska.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -3269,7 +3269,7 @@ Fäktning, Jakt, Militär historia, Textil, tyger, Kostym, Vagnar, Hästsport, H
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.etnografiska.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -3312,7 +3312,7 @@ Fäktning, Jakt, Militär historia, Textil, tyger, Kostym, Vagnar, Hästsport, H
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.etnografiska.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -3355,7 +3355,7 @@ Fäktning, Jakt, Militär historia, Textil, tyger, Kostym, Vagnar, Hästsport, H
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.etnografiska.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -3398,7 +3398,7 @@ Fäktning, Jakt, Militär historia, Textil, tyger, Kostym, Vagnar, Hästsport, H
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.etnografiska.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -3441,7 +3441,7 @@ Fäktning, Jakt, Militär historia, Textil, tyger, Kostym, Vagnar, Hästsport, H
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.vaxholmsfastning.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -3484,7 +3484,7 @@ Fäktning, Jakt, Militär historia, Textil, tyger, Kostym, Vagnar, Hästsport, H
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="https://www.kulturen.com/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -3527,7 +3527,7 @@ Fäktning, Jakt, Militär historia, Textil, tyger, Kostym, Vagnar, Hästsport, H
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="https://www.kulturen.com/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -3570,7 +3570,7 @@ Fäktning, Jakt, Militär historia, Textil, tyger, Kostym, Vagnar, Hästsport, H
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="https://helsingborg.se/uppleva-och-gora/kultur-och-museer/kulturmagasinet/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -3613,7 +3613,7 @@ Fäktning, Jakt, Militär historia, Textil, tyger, Kostym, Vagnar, Hästsport, H
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="https://helsingborg.se/uppleva-och-gora/kultur-och-museer/kulturmagasinet/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -3656,7 +3656,7 @@ Fäktning, Jakt, Militär historia, Textil, tyger, Kostym, Vagnar, Hästsport, H
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="https://helsingborg.se/uppleva-och-gora/kultur-och-museer/kulturmagasinet/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -3699,7 +3699,7 @@ Fäktning, Jakt, Militär historia, Textil, tyger, Kostym, Vagnar, Hästsport, H
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="https://helsingborg.se/uppleva-och-gora/kultur-och-museer/kulturmagasinet/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -3742,7 +3742,7 @@ Fäktning, Jakt, Militär historia, Textil, tyger, Kostym, Vagnar, Hästsport, H
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="https://helsingborg.se/uppleva-och-gora/kultur-och-museer/kulturmagasinet/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -3785,7 +3785,7 @@ Fäktning, Jakt, Militär historia, Textil, tyger, Kostym, Vagnar, Hästsport, H
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="https://helsingborg.se/uppleva-och-gora/kultur-och-museer/kulturmagasinet/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -3828,7 +3828,7 @@ Fäktning, Jakt, Militär historia, Textil, tyger, Kostym, Vagnar, Hästsport, H
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="https://helsingborg.se/uppleva-och-gora/kultur-och-museer/kulturmagasinet/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -3871,7 +3871,7 @@ Fäktning, Jakt, Militär historia, Textil, tyger, Kostym, Vagnar, Hästsport, H
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="https://helsingborg.se/uppleva-och-gora/kultur-och-museer/kulturmagasinet/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -3914,7 +3914,7 @@ Fäktning, Jakt, Militär historia, Textil, tyger, Kostym, Vagnar, Hästsport, H
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.gnm.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -3957,7 +3957,7 @@ Fäktning, Jakt, Militär historia, Textil, tyger, Kostym, Vagnar, Hästsport, H
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="https://varmlandsmuseum.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -4000,7 +4000,7 @@ Fäktning, Jakt, Militär historia, Textil, tyger, Kostym, Vagnar, Hästsport, H
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.postmuseum.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -4043,7 +4043,7 @@ Fäktning, Jakt, Militär historia, Textil, tyger, Kostym, Vagnar, Hästsport, H
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.arkdes.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -4086,7 +4086,7 @@ Fäktning, Jakt, Militär historia, Textil, tyger, Kostym, Vagnar, Hästsport, H
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.aeroseum.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -4129,7 +4129,7 @@ Fäktning, Jakt, Militär historia, Textil, tyger, Kostym, Vagnar, Hästsport, H
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.sundsvall.se/museum"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -4172,7 +4172,7 @@ Fäktning, Jakt, Militär historia, Textil, tyger, Kostym, Vagnar, Hästsport, H
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.varldskulturmuseet.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -4215,7 +4215,7 @@ Fäktning, Jakt, Militär historia, Textil, tyger, Kostym, Vagnar, Hästsport, H
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.varldskulturmuseet.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -4258,7 +4258,7 @@ Fäktning, Jakt, Militär historia, Textil, tyger, Kostym, Vagnar, Hästsport, H
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.varldskulturmuseet.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -4301,7 +4301,7 @@ Fäktning, Jakt, Militär historia, Textil, tyger, Kostym, Vagnar, Hästsport, H
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.varldskulturmuseet.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -4344,7 +4344,7 @@ Fäktning, Jakt, Militär historia, Textil, tyger, Kostym, Vagnar, Hästsport, H
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.varldskulturmuseet.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -4387,7 +4387,7 @@ Fäktning, Jakt, Militär historia, Textil, tyger, Kostym, Vagnar, Hästsport, H
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.varldskulturmuseet.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -4430,7 +4430,7 @@ Fäktning, Jakt, Militär historia, Textil, tyger, Kostym, Vagnar, Hästsport, H
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.varldskulturmuseet.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -4473,7 +4473,7 @@ Fäktning, Jakt, Militär historia, Textil, tyger, Kostym, Vagnar, Hästsport, H
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.varldskulturmuseet.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -4516,7 +4516,7 @@ Fäktning, Jakt, Militär historia, Textil, tyger, Kostym, Vagnar, Hästsport, H
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="https://www.hembygd.se/dalsland/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -4559,7 +4559,7 @@ Fäktning, Jakt, Militär historia, Textil, tyger, Kostym, Vagnar, Hästsport, H
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.upplandsmuseet.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -4602,7 +4602,7 @@ Fäktning, Jakt, Militär historia, Textil, tyger, Kostym, Vagnar, Hästsport, H
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.gotlandsforsvarsmuseum.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -4645,7 +4645,7 @@ Fäktning, Jakt, Militär historia, Textil, tyger, Kostym, Vagnar, Hästsport, H
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.dramawebben.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -4688,7 +4688,7 @@ Fäktning, Jakt, Militär historia, Textil, tyger, Kostym, Vagnar, Hästsport, H
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.smha.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -4731,7 +4731,7 @@ Fäktning, Jakt, Militär historia, Textil, tyger, Kostym, Vagnar, Hästsport, H
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.skansen.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -4777,7 +4777,7 @@ I BeBR avser miljö den fysiska miljö där bebyggelsen ligger. Miljön är inde
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="https://www.raa.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -4820,7 +4820,7 @@ I BeBR avser miljö den fysiska miljö där bebyggelsen ligger. Miljön är inde
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="https://www.raa.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -4863,7 +4863,7 @@ I BeBR avser miljö den fysiska miljö där bebyggelsen ligger. Miljön är inde
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="https://www.raa.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -4909,7 +4909,7 @@ I BeBR betecknar byggnad en funktionellt självständig byggnadskropp, företrä
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="https://www.raa.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -4956,7 +4956,7 @@ I ett inventeringsarbete har fältarbetet mestadels gjorts fastighetsvis med en 
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="https://www.raa.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -4999,7 +4999,7 @@ I ett inventeringsarbete har fältarbetet mestadels gjorts fastighetsvis med en 
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="https://www.raa.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -5042,7 +5042,7 @@ I ett inventeringsarbete har fältarbetet mestadels gjorts fastighetsvis med en 
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="https://www.raa.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -5087,7 +5087,7 @@ Fotografierna är tagna under en period som sträcker sig från 1800-talets slut
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="https://www.raa.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -5130,7 +5130,7 @@ Fotografierna är tagna under en period som sträcker sig från 1800-talets slut
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="https://www.raa.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -5173,7 +5173,7 @@ Fotografierna är tagna under en period som sträcker sig från 1800-talets slut
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="https://www.raa.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -5216,7 +5216,7 @@ Fotografierna är tagna under en period som sträcker sig från 1800-talets slut
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="https://www.raa.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -5259,7 +5259,7 @@ Fotografierna är tagna under en period som sträcker sig från 1800-talets slut
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="https://www.raa.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -5302,7 +5302,7 @@ Fotografierna är tagna under en period som sträcker sig från 1800-talets slut
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="https://www.raa.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -5345,7 +5345,7 @@ Fotografierna är tagna under en period som sträcker sig från 1800-talets slut
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="https://www.raa.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -5388,7 +5388,7 @@ Fotografierna är tagna under en period som sträcker sig från 1800-talets slut
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="https://www.raa.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -5431,7 +5431,7 @@ Fotografierna är tagna under en period som sträcker sig från 1800-talets slut
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.litografiskamuseet.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -5474,7 +5474,7 @@ Fotografierna är tagna under en period som sträcker sig från 1800-talets slut
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.ajtte.com/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -5517,7 +5517,7 @@ Fotografierna är tagna under en period som sträcker sig från 1800-talets slut
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.ajtte.com/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -5560,7 +5560,7 @@ Fotografierna är tagna under en period som sträcker sig från 1800-talets slut
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.ajtte.com/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -5603,7 +5603,7 @@ Fotografierna är tagna under en period som sträcker sig från 1800-talets slut
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.ajtte.com/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -5646,7 +5646,7 @@ Fotografierna är tagna under en period som sträcker sig från 1800-talets slut
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.ajtte.com/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -5689,7 +5689,7 @@ Fotografierna är tagna under en period som sträcker sig från 1800-talets slut
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.ajtte.com/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -5732,7 +5732,7 @@ Fotografierna är tagna under en period som sträcker sig från 1800-talets slut
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.ajtte.com/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -5775,7 +5775,7 @@ Fotografierna är tagna under en period som sträcker sig från 1800-talets slut
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.ajtte.com/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -5818,7 +5818,7 @@ Fotografierna är tagna under en period som sträcker sig från 1800-talets slut
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.ajtte.com/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -5861,7 +5861,7 @@ Fotografierna är tagna under en period som sträcker sig från 1800-talets slut
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.ajtte.com/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -5904,7 +5904,7 @@ Fotografierna är tagna under en period som sträcker sig från 1800-talets slut
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.ajtte.com/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -5947,7 +5947,7 @@ Fotografierna är tagna under en period som sträcker sig från 1800-talets slut
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.ajtte.com/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -5990,7 +5990,7 @@ Fotografierna är tagna under en period som sträcker sig från 1800-talets slut
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.armemuseum.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -6033,7 +6033,7 @@ Fotografierna är tagna under en period som sträcker sig från 1800-talets slut
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.falkoping.se/museet"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -6076,7 +6076,7 @@ Fotografierna är tagna under en period som sträcker sig från 1800-talets slut
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://stockholmslansmuseum.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -6119,7 +6119,7 @@ Fotografierna är tagna under en period som sträcker sig från 1800-talets slut
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.smha.se/vara-museer/forsvarsmuseum/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -6162,7 +6162,7 @@ Fotografierna är tagna under en period som sträcker sig från 1800-talets slut
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://goteborgsstadsmuseum.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -6205,7 +6205,7 @@ Fotografierna är tagna under en period som sträcker sig från 1800-talets slut
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://goteborgsstadsmuseum.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -6248,7 +6248,7 @@ Fotografierna är tagna under en period som sträcker sig från 1800-talets slut
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://goteborgsstadsmuseum.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -6291,7 +6291,7 @@ Fotografierna är tagna under en period som sträcker sig från 1800-talets slut
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://goteborgsstadsmuseum.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -6334,7 +6334,7 @@ Fotografierna är tagna under en period som sträcker sig från 1800-talets slut
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://goteborgsstadsmuseum.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -6377,7 +6377,7 @@ Fotografierna är tagna under en period som sträcker sig från 1800-talets slut
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://goteborgsstadsmuseum.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -6420,7 +6420,7 @@ Fotografierna är tagna under en period som sträcker sig från 1800-talets slut
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://goteborgsstadsmuseum.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -6463,7 +6463,7 @@ Fotografierna är tagna under en period som sträcker sig från 1800-talets slut
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://goteborgsstadsmuseum.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -6506,7 +6506,7 @@ Fotografierna är tagna under en period som sträcker sig från 1800-talets slut
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://goteborgsstadsmuseum.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -6549,7 +6549,7 @@ Fotografierna är tagna under en period som sträcker sig från 1800-talets slut
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://goteborgsstadsmuseum.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -6592,7 +6592,7 @@ Fotografierna är tagna under en period som sträcker sig från 1800-talets slut
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://goteborgsstadsmuseum.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -6635,7 +6635,7 @@ Fotografierna är tagna under en period som sträcker sig från 1800-talets slut
         <dcat:keyword xml:lang="en">history</dcat:keyword>
         <dcat:keyword xml:lang="sv">historia</dcat:keyword>
         <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
         <dc:source rdf:resource="http://www.olm.se/"/>
         <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
