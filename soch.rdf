@@ -1019,9 +1019,9 @@ Föremålen fanns vid inventeringen 1990-1995 ute i kyrkorna eller vid museer. D
     </dcat:dataset>
     <dcat:dataset>
       <dcat:Dataset>
-        <dc:description xml:lang="sv">Video</dc:description>
+        <dc:description xml:lang="sv">Delar av utställningar på Medelhavsmuseet.</dc:description>
         <dc:publisher rdf:resource="http://www.medelhavsmuseet.se/"/>
-        <dc:title xml:lang="sv">Medelhavsmuseet, video</dc:title>
+        <dc:title xml:lang="sv">Medelhavsmuseet, utstdel</dc:title>
         <dcat:contactPoint rdf:resource="mailto:carlotta@medelhavsmuseet.se.se"/>
         <dcat:keyword xml:lang="en">culture</dcat:keyword>
         <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
@@ -1062,9 +1062,9 @@ Föremålen fanns vid inventeringen 1990-1995 ute i kyrkorna eller vid museer. D
     </dcat:dataset>
     <dcat:dataset>
       <dcat:Dataset>
-        <dc:description xml:lang="sv">Delar av utställningar på Medelhavsmuseet.</dc:description>
+        <dc:description xml:lang="sv">Video</dc:description>
         <dc:publisher rdf:resource="http://www.medelhavsmuseet.se/"/>
-        <dc:title xml:lang="sv">Medelhavsmuseet, utstdel</dc:title>
+        <dc:title xml:lang="sv">Medelhavsmuseet, video</dc:title>
         <dcat:contactPoint rdf:resource="mailto:carlotta@medelhavsmuseet.se.se"/>
         <dcat:keyword xml:lang="en">culture</dcat:keyword>
         <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
@@ -1191,6 +1191,49 @@ Föremålen fanns vid inventeringen 1990-1995 ute i kyrkorna eller vid museer. D
     </dcat:dataset>
     <dcat:dataset>
       <dcat:Dataset>
+        <dc:description xml:lang="sv">Föremål</dc:description>
+        <dc:publisher rdf:resource="http://www.medelhavsmuseet.se/"/>
+        <dc:title xml:lang="sv">Medelhavsmuseet, West Asia</dc:title>
+        <dcat:contactPoint rdf:resource="mailto:carlotta@medelhavsmuseet.se.se"/>
+        <dcat:keyword xml:lang="en">culture</dcat:keyword>
+        <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
+        <dcat:keyword xml:lang="en">museum</dcat:keyword>
+        <dcat:keyword xml:lang="sv">museum</dcat:keyword>
+        <dcat:keyword xml:lang="en">history</dcat:keyword>
+        <dcat:keyword xml:lang="sv">historia</dcat:keyword>
+        <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        <dc:source rdf:resource="http://www.medelhavsmuseet.se/"/>
+        <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+        <dcat:distribution>
+          <dcat:Distribution>
+            <dc:description xml:lang="en">A RDF/XML web-API.</dc:description>
+            <dc:description xml:lang="sv">Ett RDF/XML webb-API.</dc:description>
+            <dc:format>application/rdf+xml</dc:format>
+            <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
+            <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+            <dc:rights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+            <dcat:accessURL rdf:resource="http://kulturarvsdata.se/ksamsok/api"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+
+        <dcat:distribution>
+          <dcat:Distribution>
+            <dc:description xml:lang="en">A JSON LD web-API.</dc:description>
+            <dc:description xml:lang="sv">Ett JSON LD webb-API.</dc:description>
+            <dc:format>application/json-ld</dc:format>
+            <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
+            <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+            <dc:rights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+            <dcat:accessURL rdf:resource="http://kulturarvsdata.se/ksamsok/api"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+      </dcat:Dataset>
+    </dcat:dataset>
+    <dcat:dataset>
+      <dcat:Dataset>
         <dc:description xml:lang="sv">Föremål från Luristan.</dc:description>
         <dc:publisher rdf:resource="http://www.medelhavsmuseet.se/"/>
         <dc:title xml:lang="sv">Medelhavsmuseet, Luristan</dc:title>
@@ -1237,49 +1280,6 @@ Föremålen fanns vid inventeringen 1990-1995 ute i kyrkorna eller vid museer. D
         <dc:description xml:lang="sv">Föremål, huvudsakligen från Egypten. Har tidigare tillhört det gamla Egyptiska museet.</dc:description>
         <dc:publisher rdf:resource="http://www.medelhavsmuseet.se/"/>
         <dc:title xml:lang="sv">Medelhavsmuseet, Egypt</dc:title>
-        <dcat:contactPoint rdf:resource="mailto:carlotta@medelhavsmuseet.se.se"/>
-        <dcat:keyword xml:lang="en">culture</dcat:keyword>
-        <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
-        <dcat:keyword xml:lang="en">museum</dcat:keyword>
-        <dcat:keyword xml:lang="sv">museum</dcat:keyword>
-        <dcat:keyword xml:lang="en">history</dcat:keyword>
-        <dcat:keyword xml:lang="sv">historia</dcat:keyword>
-        <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
-        <dc:source rdf:resource="http://www.medelhavsmuseet.se/"/>
-        <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
-        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
-        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
-        <dcat:distribution>
-          <dcat:Distribution>
-            <dc:description xml:lang="en">A RDF/XML web-API.</dc:description>
-            <dc:description xml:lang="sv">Ett RDF/XML webb-API.</dc:description>
-            <dc:format>application/rdf+xml</dc:format>
-            <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
-            <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
-            <dc:rights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
-            <dcat:accessURL rdf:resource="http://kulturarvsdata.se/ksamsok/api"/>
-          </dcat:Distribution>
-        </dcat:distribution>
-
-        <dcat:distribution>
-          <dcat:Distribution>
-            <dc:description xml:lang="en">A JSON LD web-API.</dc:description>
-            <dc:description xml:lang="sv">Ett JSON LD webb-API.</dc:description>
-            <dc:format>application/json-ld</dc:format>
-            <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
-            <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
-            <dc:rights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
-            <dcat:accessURL rdf:resource="http://kulturarvsdata.se/ksamsok/api"/>
-          </dcat:Distribution>
-        </dcat:distribution>
-      </dcat:Dataset>
-    </dcat:dataset>
-    <dcat:dataset>
-      <dcat:Dataset>
-        <dc:description xml:lang="sv">Föremål</dc:description>
-        <dc:publisher rdf:resource="http://www.medelhavsmuseet.se/"/>
-        <dc:title xml:lang="sv">Medelhavsmuseet, West Asia</dc:title>
         <dcat:contactPoint rdf:resource="mailto:carlotta@medelhavsmuseet.se.se"/>
         <dcat:keyword xml:lang="en">culture</dcat:keyword>
         <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
@@ -2008,9 +2008,9 @@ Föremålen fanns vid inventeringen 1990-1995 ute i kyrkorna eller vid museer. D
     </dcat:dataset>
     <dcat:dataset>
       <dcat:Dataset>
-        <dc:description xml:lang="sv">Samlingar</dc:description>
+        <dc:description xml:lang="sv">Objekt och föremål</dc:description>
         <dc:publisher rdf:resource="http://malmo.se/Kultur--fritid/Kultur--noje/Museer--utstallningar/Malmo-Museer.html"/>
-        <dc:title xml:lang="sv">Malmö museer, samling</dc:title>
+        <dc:title xml:lang="sv">Malmö museer, objekt</dc:title>
         <dcat:contactPoint rdf:resource="mailto:"/>
         <dcat:keyword xml:lang="en">culture</dcat:keyword>
         <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
@@ -2051,9 +2051,9 @@ Föremålen fanns vid inventeringen 1990-1995 ute i kyrkorna eller vid museer. D
     </dcat:dataset>
     <dcat:dataset>
       <dcat:Dataset>
-        <dc:description xml:lang="sv">Objekt och föremål</dc:description>
+        <dc:description xml:lang="sv">Samlingar</dc:description>
         <dc:publisher rdf:resource="http://malmo.se/Kultur--fritid/Kultur--noje/Museer--utstallningar/Malmo-Museer.html"/>
-        <dc:title xml:lang="sv">Malmö museer, objekt</dc:title>
+        <dc:title xml:lang="sv">Malmö museer, samling</dc:title>
         <dcat:contactPoint rdf:resource="mailto:"/>
         <dcat:keyword xml:lang="en">culture</dcat:keyword>
         <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
@@ -3086,9 +3086,9 @@ Fäktning, Jakt, Militär historia, Textil, tyger, Kostym, Vagnar, Hästsport, H
     </dcat:dataset>
     <dcat:dataset>
       <dcat:Dataset>
-        <dc:description xml:lang="sv">Ca 30 000 sidor ur generalkatalogen med ocr-tolkning.</dc:description>
+        <dc:description xml:lang="sv">Frågor</dc:description>
         <dc:publisher rdf:resource="http://www.etnografiska.se/"/>
-        <dc:title xml:lang="sv">Etnografiska Arkiv</dc:title>
+        <dc:title xml:lang="sv">Etnografiska frågor</dc:title>
         <dcat:contactPoint rdf:resource="mailto:"/>
         <dcat:keyword xml:lang="en">culture</dcat:keyword>
         <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
@@ -3172,9 +3172,9 @@ Fäktning, Jakt, Militär historia, Textil, tyger, Kostym, Vagnar, Hästsport, H
     </dcat:dataset>
     <dcat:dataset>
       <dcat:Dataset>
-        <dc:description xml:lang="sv">Frågor</dc:description>
+        <dc:description xml:lang="sv">Ca 30 000 sidor ur generalkatalogen med ocr-tolkning.</dc:description>
         <dc:publisher rdf:resource="http://www.etnografiska.se/"/>
-        <dc:title xml:lang="sv">Etnografiska frågor</dc:title>
+        <dc:title xml:lang="sv">Etnografiska Arkiv</dc:title>
         <dcat:contactPoint rdf:resource="mailto:"/>
         <dcat:keyword xml:lang="en">culture</dcat:keyword>
         <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
@@ -3387,9 +3387,9 @@ Fäktning, Jakt, Militär historia, Textil, tyger, Kostym, Vagnar, Hästsport, H
     </dcat:dataset>
     <dcat:dataset>
       <dcat:Dataset>
-        <dc:description xml:lang="sv">Utställningar</dc:description>
+        <dc:description xml:lang="sv">Video och rörande bilder</dc:description>
         <dc:publisher rdf:resource="http://www.etnografiska.se/"/>
-        <dc:title xml:lang="sv">Etnografiska utställning</dc:title>
+        <dc:title xml:lang="sv">Etnografiska, video</dc:title>
         <dcat:contactPoint rdf:resource="mailto:"/>
         <dcat:keyword xml:lang="en">culture</dcat:keyword>
         <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
@@ -3430,9 +3430,9 @@ Fäktning, Jakt, Militär historia, Textil, tyger, Kostym, Vagnar, Hästsport, H
     </dcat:dataset>
     <dcat:dataset>
       <dcat:Dataset>
-        <dc:description xml:lang="sv">Video och rörande bilder</dc:description>
+        <dc:description xml:lang="sv">Utställningar</dc:description>
         <dc:publisher rdf:resource="http://www.etnografiska.se/"/>
-        <dc:title xml:lang="sv">Etnografiska, video</dc:title>
+        <dc:title xml:lang="sv">Etnografiska utställning</dc:title>
         <dcat:contactPoint rdf:resource="mailto:"/>
         <dcat:keyword xml:lang="en">culture</dcat:keyword>
         <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
@@ -3688,9 +3688,9 @@ Fäktning, Jakt, Militär historia, Textil, tyger, Kostym, Vagnar, Hästsport, H
     </dcat:dataset>
     <dcat:dataset>
       <dcat:Dataset>
-        <dc:description xml:lang="sv">Delutställningar</dc:description>
+        <dc:description xml:lang="sv">Showcase</dc:description>
         <dc:publisher rdf:resource="https://helsingborg.se/uppleva-och-gora/kultur-och-museer/kulturmagasinet/"/>
-        <dc:title xml:lang="sv">Kulturmagasinet, Helsingborgs museer, exhibitionpart</dc:title>
+        <dc:title xml:lang="sv">Kulturmagasinet, Helsingborgs museer, showcase</dc:title>
         <dcat:contactPoint rdf:resource="mailto:"/>
         <dcat:keyword xml:lang="en">culture</dcat:keyword>
         <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
@@ -3731,9 +3731,9 @@ Fäktning, Jakt, Militär historia, Textil, tyger, Kostym, Vagnar, Hästsport, H
     </dcat:dataset>
     <dcat:dataset>
       <dcat:Dataset>
-        <dc:description xml:lang="sv">Showcase</dc:description>
+        <dc:description xml:lang="sv">Delutställningar</dc:description>
         <dc:publisher rdf:resource="https://helsingborg.se/uppleva-och-gora/kultur-och-museer/kulturmagasinet/"/>
-        <dc:title xml:lang="sv">Kulturmagasinet, Helsingborgs museer, showcase</dc:title>
+        <dc:title xml:lang="sv">Kulturmagasinet, Helsingborgs museer, exhibitionpart</dc:title>
         <dcat:contactPoint rdf:resource="mailto:"/>
         <dcat:keyword xml:lang="en">culture</dcat:keyword>
         <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
@@ -4161,9 +4161,9 @@ Fäktning, Jakt, Militär historia, Textil, tyger, Kostym, Vagnar, Hästsport, H
     </dcat:dataset>
     <dcat:dataset>
       <dcat:Dataset>
-        <dc:description xml:lang="sv">Ljud</dc:description>
+        <dc:description xml:lang="sv">Showcase</dc:description>
         <dc:publisher rdf:resource="http://www.varldskulturmuseet.se/"/>
-        <dc:title xml:lang="sv">Världskulturmuseet Ljud</dc:title>
+        <dc:title xml:lang="sv">Världskulturmuseet showcase</dc:title>
         <dcat:contactPoint rdf:resource="mailto:"/>
         <dcat:keyword xml:lang="en">culture</dcat:keyword>
         <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
@@ -4204,9 +4204,9 @@ Fäktning, Jakt, Militär historia, Textil, tyger, Kostym, Vagnar, Hästsport, H
     </dcat:dataset>
     <dcat:dataset>
       <dcat:Dataset>
-        <dc:description xml:lang="sv">Showcase</dc:description>
+        <dc:description xml:lang="sv">Ljud</dc:description>
         <dc:publisher rdf:resource="http://www.varldskulturmuseet.se/"/>
-        <dc:title xml:lang="sv">Världskulturmuseet showcase</dc:title>
+        <dc:title xml:lang="sv">Världskulturmuseet Ljud</dc:title>
         <dcat:contactPoint rdf:resource="mailto:"/>
         <dcat:keyword xml:lang="en">culture</dcat:keyword>
         <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
@@ -5506,9 +5506,9 @@ I BeBR avser miljö den fysiska miljö där bebyggelsen ligger. Miljön är inde
     </dcat:dataset>
     <dcat:dataset>
       <dcat:Dataset>
-        <dc:description xml:lang="sv">Objekt och föremål</dc:description>
+        <dc:description xml:lang="sv">Växter</dc:description>
         <dc:publisher rdf:resource="http://www.ajtte.com/"/>
-        <dc:title xml:lang="sv">Ajtte, objekt</dc:title>
+        <dc:title xml:lang="sv">Ajtte, växt</dc:title>
         <dcat:contactPoint rdf:resource="mailto:"/>
         <dcat:keyword xml:lang="en">culture</dcat:keyword>
         <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
@@ -5592,9 +5592,9 @@ I BeBR avser miljö den fysiska miljö där bebyggelsen ligger. Miljön är inde
     </dcat:dataset>
     <dcat:dataset>
       <dcat:Dataset>
-        <dc:description xml:lang="sv">Däggdjur</dc:description>
+        <dc:description xml:lang="sv">Objekt och föremål</dc:description>
         <dc:publisher rdf:resource="http://www.ajtte.com/"/>
-        <dc:title xml:lang="sv">Ajtte, däggdjur</dc:title>
+        <dc:title xml:lang="sv">Ajtte, objekt</dc:title>
         <dcat:contactPoint rdf:resource="mailto:"/>
         <dcat:keyword xml:lang="en">culture</dcat:keyword>
         <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
@@ -5721,9 +5721,9 @@ I BeBR avser miljö den fysiska miljö där bebyggelsen ligger. Miljön är inde
     </dcat:dataset>
     <dcat:dataset>
       <dcat:Dataset>
-        <dc:description xml:lang="sv">Växter</dc:description>
+        <dc:description xml:lang="sv">Däggdjur</dc:description>
         <dc:publisher rdf:resource="http://www.ajtte.com/"/>
-        <dc:title xml:lang="sv">Ajtte, växt</dc:title>
+        <dc:title xml:lang="sv">Ajtte, däggdjur</dc:title>
         <dcat:contactPoint rdf:resource="mailto:"/>
         <dcat:keyword xml:lang="en">culture</dcat:keyword>
         <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
@@ -6151,49 +6151,6 @@ I BeBR avser miljö den fysiska miljö där bebyggelsen ligger. Miljön är inde
     </dcat:dataset>
     <dcat:dataset>
       <dcat:Dataset>
-        <dc:description xml:lang="sv">Samlingar</dc:description>
-        <dc:publisher rdf:resource="http://goteborgsstadsmuseum.se/"/>
-        <dc:title xml:lang="sv">Göteborgs stadsmuseum, samlingar</dc:title>
-        <dcat:contactPoint rdf:resource="mailto:"/>
-        <dcat:keyword xml:lang="en">culture</dcat:keyword>
-        <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
-        <dcat:keyword xml:lang="en">museum</dcat:keyword>
-        <dcat:keyword xml:lang="sv">museum</dcat:keyword>
-        <dcat:keyword xml:lang="en">history</dcat:keyword>
-        <dcat:keyword xml:lang="sv">historia</dcat:keyword>
-        <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
-        <dc:source rdf:resource="http://goteborgsstadsmuseum.se/"/>
-        <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
-        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
-        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
-        <dcat:distribution>
-          <dcat:Distribution>
-            <dc:description xml:lang="en">A RDF/XML web-API.</dc:description>
-            <dc:description xml:lang="sv">Ett RDF/XML webb-API.</dc:description>
-            <dc:format>application/rdf+xml</dc:format>
-            <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
-            <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
-            <dc:rights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
-            <dcat:accessURL rdf:resource="http://kulturarvsdata.se/ksamsok/api"/>
-          </dcat:Distribution>
-        </dcat:distribution>
-
-        <dcat:distribution>
-          <dcat:Distribution>
-            <dc:description xml:lang="en">A JSON LD web-API.</dc:description>
-            <dc:description xml:lang="sv">Ett JSON LD webb-API.</dc:description>
-            <dc:format>application/json-ld</dc:format>
-            <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
-            <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
-            <dc:rights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
-            <dcat:accessURL rdf:resource="http://kulturarvsdata.se/ksamsok/api"/>
-          </dcat:Distribution>
-        </dcat:distribution>
-      </dcat:Dataset>
-    </dcat:dataset>
-    <dcat:dataset>
-      <dcat:Dataset>
         <dc:description xml:lang="sv">Utställningar</dc:description>
         <dc:publisher rdf:resource="http://goteborgsstadsmuseum.se/"/>
         <dc:title xml:lang="sv">Göteborgs stadsmuseum, exhibition</dc:title>
@@ -6237,9 +6194,9 @@ I BeBR avser miljö den fysiska miljö där bebyggelsen ligger. Miljön är inde
     </dcat:dataset>
     <dcat:dataset>
       <dcat:Dataset>
-        <dc:description xml:lang="sv">Delobjekt</dc:description>
+        <dc:description xml:lang="sv">Samlingar</dc:description>
         <dc:publisher rdf:resource="http://goteborgsstadsmuseum.se/"/>
-        <dc:title xml:lang="sv">Göteborgs stadsmuseum, delobjekt</dc:title>
+        <dc:title xml:lang="sv">Göteborgs stadsmuseum, samlingar</dc:title>
         <dcat:contactPoint rdf:resource="mailto:"/>
         <dcat:keyword xml:lang="en">culture</dcat:keyword>
         <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
@@ -6280,9 +6237,9 @@ I BeBR avser miljö den fysiska miljö där bebyggelsen ligger. Miljön är inde
     </dcat:dataset>
     <dcat:dataset>
       <dcat:Dataset>
-        <dc:description xml:lang="sv">Objekt och föremål</dc:description>
+        <dc:description xml:lang="sv">Delobjekt</dc:description>
         <dc:publisher rdf:resource="http://goteborgsstadsmuseum.se/"/>
-        <dc:title xml:lang="sv">Göteborgs stadsmuseum, objekt</dc:title>
+        <dc:title xml:lang="sv">Göteborgs stadsmuseum, delobjekt</dc:title>
         <dcat:contactPoint rdf:resource="mailto:"/>
         <dcat:keyword xml:lang="en">culture</dcat:keyword>
         <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
@@ -6369,6 +6326,49 @@ I BeBR avser miljö den fysiska miljö där bebyggelsen ligger. Miljön är inde
         <dc:description xml:lang="sv">Digitala dokument</dc:description>
         <dc:publisher rdf:resource="http://goteborgsstadsmuseum.se/"/>
         <dc:title xml:lang="sv">Göteborgs stadsmuseum, digitaldocument</dc:title>
+        <dcat:contactPoint rdf:resource="mailto:"/>
+        <dcat:keyword xml:lang="en">culture</dcat:keyword>
+        <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
+        <dcat:keyword xml:lang="en">museum</dcat:keyword>
+        <dcat:keyword xml:lang="sv">museum</dcat:keyword>
+        <dcat:keyword xml:lang="en">history</dcat:keyword>
+        <dcat:keyword xml:lang="sv">historia</dcat:keyword>
+        <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        <dc:source rdf:resource="http://goteborgsstadsmuseum.se/"/>
+        <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+        <dcat:distribution>
+          <dcat:Distribution>
+            <dc:description xml:lang="en">A RDF/XML web-API.</dc:description>
+            <dc:description xml:lang="sv">Ett RDF/XML webb-API.</dc:description>
+            <dc:format>application/rdf+xml</dc:format>
+            <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
+            <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+            <dc:rights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+            <dcat:accessURL rdf:resource="http://kulturarvsdata.se/ksamsok/api"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+
+        <dcat:distribution>
+          <dcat:Distribution>
+            <dc:description xml:lang="en">A JSON LD web-API.</dc:description>
+            <dc:description xml:lang="sv">Ett JSON LD webb-API.</dc:description>
+            <dc:format>application/json-ld</dc:format>
+            <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
+            <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+            <dc:rights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+            <dcat:accessURL rdf:resource="http://kulturarvsdata.se/ksamsok/api"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+      </dcat:Dataset>
+    </dcat:dataset>
+    <dcat:dataset>
+      <dcat:Dataset>
+        <dc:description xml:lang="sv">Objekt och föremål</dc:description>
+        <dc:publisher rdf:resource="http://goteborgsstadsmuseum.se/"/>
+        <dc:title xml:lang="sv">Göteborgs stadsmuseum, objekt</dc:title>
         <dcat:contactPoint rdf:resource="mailto:"/>
         <dcat:keyword xml:lang="en">culture</dcat:keyword>
         <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
