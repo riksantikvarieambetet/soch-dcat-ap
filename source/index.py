@@ -1,20 +1,10 @@
 import os
-import configparser
 import io
 import requests
 from lxml import etree
 
 
-config = configparser.ConfigParser()
-config.read('config.ini')
-
-
-if 'SOCH_API_KEY' in os.environ:
-    soch_api_key = os.environ.get('SOCH_API_KEY')
-else:
-    soch_api_key = config['DEFAULT']['soch_api_key']
-
-service_index_source = 'http://www.kulturarvsdata.se/ksamsok/api?method=getServiceOrganization&value=all&x-api=' + soch_api_key
+service_index_source = 'https://www.kulturarvsdata.se/ksamsok/api?method=getServiceOrganization&value=all'
 
 r = requests.get(service_index_source)
 xml = etree.XML(r.content)
@@ -38,7 +28,7 @@ for institution_node in xml.xpath('/result/institution'):
     for service_node in institution_node.xpath('.//services/service'):
         service = {}
         service['title'] = service_node.xpath('.//namn')[0].text or ''
-        service['description'] = service_node.xpath('.//beskrvning')[0].text or ''
+        service['description'] = service_node.xpath('.//beskrivning')[0].text or ''
         service['contact_email'] = institution['contact_email']
         service['publisher_url'] = institution['webpage']
 
