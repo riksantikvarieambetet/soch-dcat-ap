@@ -239,9 +239,9 @@
     </dcat:dataset>
     <dcat:dataset>
       <dcat:Dataset>
-        <dc:description xml:lang="sv">Bebyggelser</dc:description>
+        <dc:description xml:lang="sv">Händelser och evenemang</dc:description>
         <dc:publisher rdf:resource="http://goteborgsstadsmuseum.se/"/>
-        <dc:title xml:lang="sv">Göteborgs stadsmuseum, bebyggelse</dc:title>
+        <dc:title xml:lang="sv">Göteborgs stadsmuseum, event</dc:title>
         <dcat:contactPoint rdf:resource="mailto:"/>
         <dcat:keyword xml:lang="en">culture</dcat:keyword>
         <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
@@ -282,9 +282,9 @@
     </dcat:dataset>
     <dcat:dataset>
       <dcat:Dataset>
-        <dc:description xml:lang="sv">Händelser och evenemang</dc:description>
+        <dc:description xml:lang="sv">Bebyggelser</dc:description>
         <dc:publisher rdf:resource="http://goteborgsstadsmuseum.se/"/>
-        <dc:title xml:lang="sv">Göteborgs stadsmuseum, event</dc:title>
+        <dc:title xml:lang="sv">Göteborgs stadsmuseum, bebyggelse</dc:title>
         <dcat:contactPoint rdf:resource="mailto:"/>
         <dcat:keyword xml:lang="en">culture</dcat:keyword>
         <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
@@ -497,9 +497,9 @@
     </dcat:dataset>
     <dcat:dataset>
       <dcat:Dataset>
-        <dc:description xml:lang="sv">Digitala dokument</dc:description>
+        <dc:description xml:lang="sv">Objekt och föremål</dc:description>
         <dc:publisher rdf:resource="http://goteborgsstadsmuseum.se/"/>
-        <dc:title xml:lang="sv">Göteborgs stadsmuseum, digitaldocument</dc:title>
+        <dc:title xml:lang="sv">Göteborgs stadsmuseum, objekt</dc:title>
         <dcat:contactPoint rdf:resource="mailto:"/>
         <dcat:keyword xml:lang="en">culture</dcat:keyword>
         <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
@@ -540,9 +540,9 @@
     </dcat:dataset>
     <dcat:dataset>
       <dcat:Dataset>
-        <dc:description xml:lang="sv">Objekt och föremål</dc:description>
+        <dc:description xml:lang="sv">Digitala dokument</dc:description>
         <dc:publisher rdf:resource="http://goteborgsstadsmuseum.se/"/>
-        <dc:title xml:lang="sv">Göteborgs stadsmuseum, objekt</dc:title>
+        <dc:title xml:lang="sv">Göteborgs stadsmuseum, digitaldocument</dc:title>
         <dcat:contactPoint rdf:resource="mailto:"/>
         <dcat:keyword xml:lang="en">culture</dcat:keyword>
         <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
@@ -1229,138 +1229,9 @@ Data om runinskrifter av nordiskt ursprung/karaktär.</dc:description>
     </dcat:dataset>
     <dcat:dataset>
       <dcat:Dataset>
-        <dc:description xml:lang="sv">Utställningar som varit på Medelhavsmuseet.</dc:description>
-        <dc:publisher rdf:resource="http://www.medelhavsmuseet.se/"/>
-        <dc:title xml:lang="sv">Medelhavsmuseet, utst</dc:title>
-        <dcat:contactPoint rdf:resource="mailto:carlotta@medelhavsmuseet.se.se"/>
-        <dcat:keyword xml:lang="en">culture</dcat:keyword>
-        <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
-        <dcat:keyword xml:lang="en">museum</dcat:keyword>
-        <dcat:keyword xml:lang="sv">museum</dcat:keyword>
-        <dcat:keyword xml:lang="en">history</dcat:keyword>
-        <dcat:keyword xml:lang="sv">historia</dcat:keyword>
-        <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
-        <dc:source rdf:resource="http://www.medelhavsmuseet.se/"/>
-        <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
-        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
-        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
-        <dcat:distribution>
-          <dcat:Distribution>
-            <dc:description xml:lang="en">A RDF/XML web-API.</dc:description>
-            <dc:description xml:lang="sv">Ett RDF/XML webb-API.</dc:description>
-            <dc:format>application/rdf+xml</dc:format>
-            <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
-            <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
-            <dc:rights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
-            <dcat:accessURL rdf:resource="http://kulturarvsdata.se/ksamsok/api"/>
-          </dcat:Distribution>
-        </dcat:distribution>
-
-        <dcat:distribution>
-          <dcat:Distribution>
-            <dc:description xml:lang="en">A JSON LD web-API.</dc:description>
-            <dc:description xml:lang="sv">Ett JSON LD webb-API.</dc:description>
-            <dc:format>application/json-ld</dc:format>
-            <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
-            <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
-            <dc:rights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
-            <dcat:accessURL rdf:resource="http://kulturarvsdata.se/ksamsok/api"/>
-          </dcat:Distribution>
-        </dcat:distribution>
-      </dcat:Dataset>
-    </dcat:dataset>
-    <dcat:dataset>
-      <dcat:Dataset>
-        <dc:description xml:lang="sv">Video</dc:description>
-        <dc:publisher rdf:resource="http://www.medelhavsmuseet.se/"/>
-        <dc:title xml:lang="sv">Medelhavsmuseet, video</dc:title>
-        <dcat:contactPoint rdf:resource="mailto:carlotta@medelhavsmuseet.se.se"/>
-        <dcat:keyword xml:lang="en">culture</dcat:keyword>
-        <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
-        <dcat:keyword xml:lang="en">museum</dcat:keyword>
-        <dcat:keyword xml:lang="sv">museum</dcat:keyword>
-        <dcat:keyword xml:lang="en">history</dcat:keyword>
-        <dcat:keyword xml:lang="sv">historia</dcat:keyword>
-        <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
-        <dc:source rdf:resource="http://www.medelhavsmuseet.se/"/>
-        <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
-        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
-        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
-        <dcat:distribution>
-          <dcat:Distribution>
-            <dc:description xml:lang="en">A RDF/XML web-API.</dc:description>
-            <dc:description xml:lang="sv">Ett RDF/XML webb-API.</dc:description>
-            <dc:format>application/rdf+xml</dc:format>
-            <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
-            <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
-            <dc:rights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
-            <dcat:accessURL rdf:resource="http://kulturarvsdata.se/ksamsok/api"/>
-          </dcat:Distribution>
-        </dcat:distribution>
-
-        <dcat:distribution>
-          <dcat:Distribution>
-            <dc:description xml:lang="en">A JSON LD web-API.</dc:description>
-            <dc:description xml:lang="sv">Ett JSON LD webb-API.</dc:description>
-            <dc:format>application/json-ld</dc:format>
-            <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
-            <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
-            <dc:rights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
-            <dcat:accessURL rdf:resource="http://kulturarvsdata.se/ksamsok/api"/>
-          </dcat:Distribution>
-        </dcat:distribution>
-      </dcat:Dataset>
-    </dcat:dataset>
-    <dcat:dataset>
-      <dcat:Dataset>
         <dc:description xml:lang="sv">Föremål, huvudsakligen från Cypern.</dc:description>
         <dc:publisher rdf:resource="http://www.medelhavsmuseet.se/"/>
         <dc:title xml:lang="sv">Medelhavsmuseet, Cyprus</dc:title>
-        <dcat:contactPoint rdf:resource="mailto:carlotta@medelhavsmuseet.se.se"/>
-        <dcat:keyword xml:lang="en">culture</dcat:keyword>
-        <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
-        <dcat:keyword xml:lang="en">museum</dcat:keyword>
-        <dcat:keyword xml:lang="sv">museum</dcat:keyword>
-        <dcat:keyword xml:lang="en">history</dcat:keyword>
-        <dcat:keyword xml:lang="sv">historia</dcat:keyword>
-        <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
-        <dc:source rdf:resource="http://www.medelhavsmuseet.se/"/>
-        <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
-        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
-        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
-        <dcat:distribution>
-          <dcat:Distribution>
-            <dc:description xml:lang="en">A RDF/XML web-API.</dc:description>
-            <dc:description xml:lang="sv">Ett RDF/XML webb-API.</dc:description>
-            <dc:format>application/rdf+xml</dc:format>
-            <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
-            <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
-            <dc:rights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
-            <dcat:accessURL rdf:resource="http://kulturarvsdata.se/ksamsok/api"/>
-          </dcat:Distribution>
-        </dcat:distribution>
-
-        <dcat:distribution>
-          <dcat:Distribution>
-            <dc:description xml:lang="en">A JSON LD web-API.</dc:description>
-            <dc:description xml:lang="sv">Ett JSON LD webb-API.</dc:description>
-            <dc:format>application/json-ld</dc:format>
-            <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
-            <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
-            <dc:rights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
-            <dcat:accessURL rdf:resource="http://kulturarvsdata.se/ksamsok/api"/>
-          </dcat:Distribution>
-        </dcat:distribution>
-      </dcat:Dataset>
-    </dcat:dataset>
-    <dcat:dataset>
-      <dcat:Dataset>
-        <dc:description xml:lang="sv">Delar av utställningar på Medelhavsmuseet.</dc:description>
-        <dc:publisher rdf:resource="http://www.medelhavsmuseet.se/"/>
-        <dc:title xml:lang="sv">Medelhavsmuseet, utstdel</dc:title>
         <dcat:contactPoint rdf:resource="mailto:carlotta@medelhavsmuseet.se.se"/>
         <dcat:keyword xml:lang="en">culture</dcat:keyword>
         <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
@@ -1444,9 +1315,95 @@ Data om runinskrifter av nordiskt ursprung/karaktär.</dc:description>
     </dcat:dataset>
     <dcat:dataset>
       <dcat:Dataset>
-        <dc:description xml:lang="sv">Dokument. Skannade föremålskataloger.</dc:description>
+        <dc:description xml:lang="sv">Utställningar som varit på Medelhavsmuseet.</dc:description>
         <dc:publisher rdf:resource="http://www.medelhavsmuseet.se/"/>
-        <dc:title xml:lang="sv">Medelhavsmuseet, dokument</dc:title>
+        <dc:title xml:lang="sv">Medelhavsmuseet, utst</dc:title>
+        <dcat:contactPoint rdf:resource="mailto:carlotta@medelhavsmuseet.se.se"/>
+        <dcat:keyword xml:lang="en">culture</dcat:keyword>
+        <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
+        <dcat:keyword xml:lang="en">museum</dcat:keyword>
+        <dcat:keyword xml:lang="sv">museum</dcat:keyword>
+        <dcat:keyword xml:lang="en">history</dcat:keyword>
+        <dcat:keyword xml:lang="sv">historia</dcat:keyword>
+        <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        <dc:source rdf:resource="http://www.medelhavsmuseet.se/"/>
+        <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+        <dcat:distribution>
+          <dcat:Distribution>
+            <dc:description xml:lang="en">A RDF/XML web-API.</dc:description>
+            <dc:description xml:lang="sv">Ett RDF/XML webb-API.</dc:description>
+            <dc:format>application/rdf+xml</dc:format>
+            <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
+            <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+            <dc:rights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+            <dcat:accessURL rdf:resource="http://kulturarvsdata.se/ksamsok/api"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+
+        <dcat:distribution>
+          <dcat:Distribution>
+            <dc:description xml:lang="en">A JSON LD web-API.</dc:description>
+            <dc:description xml:lang="sv">Ett JSON LD webb-API.</dc:description>
+            <dc:format>application/json-ld</dc:format>
+            <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
+            <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+            <dc:rights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+            <dcat:accessURL rdf:resource="http://kulturarvsdata.se/ksamsok/api"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+      </dcat:Dataset>
+    </dcat:dataset>
+    <dcat:dataset>
+      <dcat:Dataset>
+        <dc:description xml:lang="sv">Delar av utställningar på Medelhavsmuseet.</dc:description>
+        <dc:publisher rdf:resource="http://www.medelhavsmuseet.se/"/>
+        <dc:title xml:lang="sv">Medelhavsmuseet, utstdel</dc:title>
+        <dcat:contactPoint rdf:resource="mailto:carlotta@medelhavsmuseet.se.se"/>
+        <dcat:keyword xml:lang="en">culture</dcat:keyword>
+        <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
+        <dcat:keyword xml:lang="en">museum</dcat:keyword>
+        <dcat:keyword xml:lang="sv">museum</dcat:keyword>
+        <dcat:keyword xml:lang="en">history</dcat:keyword>
+        <dcat:keyword xml:lang="sv">historia</dcat:keyword>
+        <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        <dc:source rdf:resource="http://www.medelhavsmuseet.se/"/>
+        <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+        <dcat:distribution>
+          <dcat:Distribution>
+            <dc:description xml:lang="en">A RDF/XML web-API.</dc:description>
+            <dc:description xml:lang="sv">Ett RDF/XML webb-API.</dc:description>
+            <dc:format>application/rdf+xml</dc:format>
+            <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
+            <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+            <dc:rights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+            <dcat:accessURL rdf:resource="http://kulturarvsdata.se/ksamsok/api"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+
+        <dcat:distribution>
+          <dcat:Distribution>
+            <dc:description xml:lang="en">A JSON LD web-API.</dc:description>
+            <dc:description xml:lang="sv">Ett JSON LD webb-API.</dc:description>
+            <dc:format>application/json-ld</dc:format>
+            <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
+            <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+            <dc:rights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+            <dcat:accessURL rdf:resource="http://kulturarvsdata.se/ksamsok/api"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+      </dcat:Dataset>
+    </dcat:dataset>
+    <dcat:dataset>
+      <dcat:Dataset>
+        <dc:description xml:lang="sv">Video</dc:description>
+        <dc:publisher rdf:resource="http://www.medelhavsmuseet.se/"/>
+        <dc:title xml:lang="sv">Medelhavsmuseet, video</dc:title>
         <dcat:contactPoint rdf:resource="mailto:carlotta@medelhavsmuseet.se.se"/>
         <dcat:keyword xml:lang="en">culture</dcat:keyword>
         <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
@@ -1530,52 +1487,9 @@ Data om runinskrifter av nordiskt ursprung/karaktär.</dc:description>
     </dcat:dataset>
     <dcat:dataset>
       <dcat:Dataset>
-        <dc:description xml:lang="sv">Montrar i utställningar som varit på Medelhavsmuseet.</dc:description>
+        <dc:description xml:lang="sv">Dokument. Skannade föremålskataloger.</dc:description>
         <dc:publisher rdf:resource="http://www.medelhavsmuseet.se/"/>
-        <dc:title xml:lang="sv">Medelhavsmuseet, monter</dc:title>
-        <dcat:contactPoint rdf:resource="mailto:carlotta@medelhavsmuseet.se.se"/>
-        <dcat:keyword xml:lang="en">culture</dcat:keyword>
-        <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
-        <dcat:keyword xml:lang="en">museum</dcat:keyword>
-        <dcat:keyword xml:lang="sv">museum</dcat:keyword>
-        <dcat:keyword xml:lang="en">history</dcat:keyword>
-        <dcat:keyword xml:lang="sv">historia</dcat:keyword>
-        <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
-        <dc:source rdf:resource="http://www.medelhavsmuseet.se/"/>
-        <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
-        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
-        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
-        <dcat:distribution>
-          <dcat:Distribution>
-            <dc:description xml:lang="en">A RDF/XML web-API.</dc:description>
-            <dc:description xml:lang="sv">Ett RDF/XML webb-API.</dc:description>
-            <dc:format>application/rdf+xml</dc:format>
-            <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
-            <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
-            <dc:rights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
-            <dcat:accessURL rdf:resource="http://kulturarvsdata.se/ksamsok/api"/>
-          </dcat:Distribution>
-        </dcat:distribution>
-
-        <dcat:distribution>
-          <dcat:Distribution>
-            <dc:description xml:lang="en">A JSON LD web-API.</dc:description>
-            <dc:description xml:lang="sv">Ett JSON LD webb-API.</dc:description>
-            <dc:format>application/json-ld</dc:format>
-            <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
-            <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
-            <dc:rights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
-            <dcat:accessURL rdf:resource="http://kulturarvsdata.se/ksamsok/api"/>
-          </dcat:Distribution>
-        </dcat:distribution>
-      </dcat:Dataset>
-    </dcat:dataset>
-    <dcat:dataset>
-      <dcat:Dataset>
-        <dc:description xml:lang="sv">Föremål</dc:description>
-        <dc:publisher rdf:resource="http://www.medelhavsmuseet.se/"/>
-        <dc:title xml:lang="sv">Medelhavsmuseet, West Asia</dc:title>
+        <dc:title xml:lang="sv">Medelhavsmuseet, dokument</dc:title>
         <dcat:contactPoint rdf:resource="mailto:carlotta@medelhavsmuseet.se.se"/>
         <dcat:keyword xml:lang="en">culture</dcat:keyword>
         <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
@@ -1662,6 +1576,92 @@ Data om runinskrifter av nordiskt ursprung/karaktär.</dc:description>
         <dc:description xml:lang="sv">Föremål från Luristan.</dc:description>
         <dc:publisher rdf:resource="http://www.medelhavsmuseet.se/"/>
         <dc:title xml:lang="sv">Medelhavsmuseet, Luristan</dc:title>
+        <dcat:contactPoint rdf:resource="mailto:carlotta@medelhavsmuseet.se.se"/>
+        <dcat:keyword xml:lang="en">culture</dcat:keyword>
+        <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
+        <dcat:keyword xml:lang="en">museum</dcat:keyword>
+        <dcat:keyword xml:lang="sv">museum</dcat:keyword>
+        <dcat:keyword xml:lang="en">history</dcat:keyword>
+        <dcat:keyword xml:lang="sv">historia</dcat:keyword>
+        <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        <dc:source rdf:resource="http://www.medelhavsmuseet.se/"/>
+        <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+        <dcat:distribution>
+          <dcat:Distribution>
+            <dc:description xml:lang="en">A RDF/XML web-API.</dc:description>
+            <dc:description xml:lang="sv">Ett RDF/XML webb-API.</dc:description>
+            <dc:format>application/rdf+xml</dc:format>
+            <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
+            <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+            <dc:rights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+            <dcat:accessURL rdf:resource="http://kulturarvsdata.se/ksamsok/api"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+
+        <dcat:distribution>
+          <dcat:Distribution>
+            <dc:description xml:lang="en">A JSON LD web-API.</dc:description>
+            <dc:description xml:lang="sv">Ett JSON LD webb-API.</dc:description>
+            <dc:format>application/json-ld</dc:format>
+            <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
+            <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+            <dc:rights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+            <dcat:accessURL rdf:resource="http://kulturarvsdata.se/ksamsok/api"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+      </dcat:Dataset>
+    </dcat:dataset>
+    <dcat:dataset>
+      <dcat:Dataset>
+        <dc:description xml:lang="sv">Montrar i utställningar som varit på Medelhavsmuseet.</dc:description>
+        <dc:publisher rdf:resource="http://www.medelhavsmuseet.se/"/>
+        <dc:title xml:lang="sv">Medelhavsmuseet, monter</dc:title>
+        <dcat:contactPoint rdf:resource="mailto:carlotta@medelhavsmuseet.se.se"/>
+        <dcat:keyword xml:lang="en">culture</dcat:keyword>
+        <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
+        <dcat:keyword xml:lang="en">museum</dcat:keyword>
+        <dcat:keyword xml:lang="sv">museum</dcat:keyword>
+        <dcat:keyword xml:lang="en">history</dcat:keyword>
+        <dcat:keyword xml:lang="sv">historia</dcat:keyword>
+        <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        <dc:source rdf:resource="http://www.medelhavsmuseet.se/"/>
+        <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+        <dcat:distribution>
+          <dcat:Distribution>
+            <dc:description xml:lang="en">A RDF/XML web-API.</dc:description>
+            <dc:description xml:lang="sv">Ett RDF/XML webb-API.</dc:description>
+            <dc:format>application/rdf+xml</dc:format>
+            <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
+            <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+            <dc:rights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+            <dcat:accessURL rdf:resource="http://kulturarvsdata.se/ksamsok/api"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+
+        <dcat:distribution>
+          <dcat:Distribution>
+            <dc:description xml:lang="en">A JSON LD web-API.</dc:description>
+            <dc:description xml:lang="sv">Ett JSON LD webb-API.</dc:description>
+            <dc:format>application/json-ld</dc:format>
+            <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
+            <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+            <dc:rights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+            <dcat:accessURL rdf:resource="http://kulturarvsdata.se/ksamsok/api"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+      </dcat:Dataset>
+    </dcat:dataset>
+    <dcat:dataset>
+      <dcat:Dataset>
+        <dc:description xml:lang="sv">Föremål</dc:description>
+        <dc:publisher rdf:resource="http://www.medelhavsmuseet.se/"/>
+        <dc:title xml:lang="sv">Medelhavsmuseet, West Asia</dc:title>
         <dcat:contactPoint rdf:resource="mailto:carlotta@medelhavsmuseet.se.se"/>
         <dcat:keyword xml:lang="en">culture</dcat:keyword>
         <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
@@ -1919,6 +1919,53 @@ Fäktning, Jakt, Militär historia, Textil, tyger, Kostym, Vagnar, Hästsport, H
     </dcat:dataset>
     <dcat:dataset>
       <dcat:Dataset>
+        <dc:description xml:lang="sv">Bebyggelseregistret, BeBR, är ett nationellt register med information om det byggda kulturarvet. Här ryms allt från timmerstugor och gamla industrimiljöer till modern stadsbebyggelse. Det finns omkring 80 000 sökbara poster i registret, av dem är cirka 13000 byggnader skyddade som byggnadsminnen och kyrkor. Uppdateringar och nya registreringar görs kontinuerligt. De uppgifter som finns presenterade i Bebyggelseregistret är hämtade från inventeringar, dokumentationer, arkiv och litteratur. Informationen är framtagen och registrerad av regionala museer, Svenska Kyrkan, länsstyrelser, kommuner, universitet och högskolor i samverkan med Riksantikvarieämbetet.
+
+Termen anläggning har sedan länge använts inom kulturmiljövården i olika sammanhang bland annat vid bebyggelseinventeringar. En anläggning betecknar i det här sammanhanget ett avgränsat område med en eller flera byggnader. Byggnaderna har ett gemensamt, funktionellt samband och utgör tillsammans t.ex. en bondgård, en skola eller ett bostadshus med garage. Det område, som tillsammans med byggnaden/byggnaderna, bildar en anläggning överensstämmer oftast ytmässigt med den berörda fastigheten. 
+I ett inventeringsarbete har fältarbetet mestadels gjorts fastighetsvis med en beskrivning av de enskilda byggnaderna och av den tomt eller gårdsmiljö som omger byggnaderna. I flera fall har en situationsplan med markering för byggnaden/byggnaderna och för t.ex. växtlighet, gångar, staket eller murar tagits fram.
+</dc:description>
+        <dc:publisher rdf:resource="https://www.raa.se/"/>
+        <dc:title xml:lang="sv">Bebyggelseregistret anläggning</dc:title>
+        <dcat:contactPoint rdf:resource="mailto:ksamsok@raa.se"/>
+        <dcat:keyword xml:lang="en">culture</dcat:keyword>
+        <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
+        <dcat:keyword xml:lang="en">museum</dcat:keyword>
+        <dcat:keyword xml:lang="sv">museum</dcat:keyword>
+        <dcat:keyword xml:lang="en">history</dcat:keyword>
+        <dcat:keyword xml:lang="sv">historia</dcat:keyword>
+        <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        <dc:source rdf:resource="https://www.raa.se/"/>
+        <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+        <dcat:distribution>
+          <dcat:Distribution>
+            <dc:description xml:lang="en">A RDF/XML web-API.</dc:description>
+            <dc:description xml:lang="sv">Ett RDF/XML webb-API.</dc:description>
+            <dc:format>application/rdf+xml</dc:format>
+            <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
+            <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+            <dc:rights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+            <dcat:accessURL rdf:resource="http://kulturarvsdata.se/ksamsok/api"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+
+        <dcat:distribution>
+          <dcat:Distribution>
+            <dc:description xml:lang="en">A JSON LD web-API.</dc:description>
+            <dc:description xml:lang="sv">Ett JSON LD webb-API.</dc:description>
+            <dc:format>application/json-ld</dc:format>
+            <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
+            <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+            <dc:rights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+            <dcat:accessURL rdf:resource="http://kulturarvsdata.se/ksamsok/api"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+      </dcat:Dataset>
+    </dcat:dataset>
+    <dcat:dataset>
+      <dcat:Dataset>
         <dc:description xml:lang="sv">Uppdragsarkeologiska rapporter 2013-</dc:description>
         <dc:publisher rdf:resource="https://www.raa.se/"/>
         <dc:title xml:lang="sv">Uppdragsarkeologiska rapporter 2013-</dc:title>
@@ -1965,53 +2012,6 @@ Fäktning, Jakt, Militär historia, Textil, tyger, Kostym, Vagnar, Hästsport, H
         <dc:description xml:lang="sv">Utställningar</dc:description>
         <dc:publisher rdf:resource="https://www.raa.se/"/>
         <dc:title xml:lang="sv">riksutstallningar</dc:title>
-        <dcat:contactPoint rdf:resource="mailto:ksamsok@raa.se"/>
-        <dcat:keyword xml:lang="en">culture</dcat:keyword>
-        <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
-        <dcat:keyword xml:lang="en">museum</dcat:keyword>
-        <dcat:keyword xml:lang="sv">museum</dcat:keyword>
-        <dcat:keyword xml:lang="en">history</dcat:keyword>
-        <dcat:keyword xml:lang="sv">historia</dcat:keyword>
-        <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
-        <dc:source rdf:resource="https://www.raa.se/"/>
-        <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
-        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
-        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
-        <dcat:distribution>
-          <dcat:Distribution>
-            <dc:description xml:lang="en">A RDF/XML web-API.</dc:description>
-            <dc:description xml:lang="sv">Ett RDF/XML webb-API.</dc:description>
-            <dc:format>application/rdf+xml</dc:format>
-            <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
-            <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
-            <dc:rights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
-            <dcat:accessURL rdf:resource="http://kulturarvsdata.se/ksamsok/api"/>
-          </dcat:Distribution>
-        </dcat:distribution>
-
-        <dcat:distribution>
-          <dcat:Distribution>
-            <dc:description xml:lang="en">A JSON LD web-API.</dc:description>
-            <dc:description xml:lang="sv">Ett JSON LD webb-API.</dc:description>
-            <dc:format>application/json-ld</dc:format>
-            <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
-            <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
-            <dc:rights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
-            <dcat:accessURL rdf:resource="http://kulturarvsdata.se/ksamsok/api"/>
-          </dcat:Distribution>
-        </dcat:distribution>
-      </dcat:Dataset>
-    </dcat:dataset>
-    <dcat:dataset>
-      <dcat:Dataset>
-        <dc:description xml:lang="sv">Bebyggelseregistret, BeBR, är ett nationellt register med information om det byggda kulturarvet. Här ryms allt från timmerstugor och gamla industrimiljöer till modern stadsbebyggelse. Det finns omkring 80 000 sökbara poster i registret, av dem är cirka 13000 byggnader skyddade som byggnadsminnen och kyrkor. Uppdateringar och nya registreringar görs kontinuerligt. De uppgifter som finns presenterade i Bebyggelseregistret är hämtade från inventeringar, dokumentationer, arkiv och litteratur. Informationen är framtagen och registrerad av regionala museer, Svenska Kyrkan, länsstyrelser, kommuner, universitet och högskolor i samverkan med Riksantikvarieämbetet.
-
-Termen anläggning har sedan länge använts inom kulturmiljövården i olika sammanhang bland annat vid bebyggelseinventeringar. En anläggning betecknar i det här sammanhanget ett avgränsat område med en eller flera byggnader. Byggnaderna har ett gemensamt, funktionellt samband och utgör tillsammans t.ex. en bondgård, en skola eller ett bostadshus med garage. Det område, som tillsammans med byggnaden/byggnaderna, bildar en anläggning överensstämmer oftast ytmässigt med den berörda fastigheten. 
-I ett inventeringsarbete har fältarbetet mestadels gjorts fastighetsvis med en beskrivning av de enskilda byggnaderna och av den tomt eller gårdsmiljö som omger byggnaderna. I flera fall har en situationsplan med markering för byggnaden/byggnaderna och för t.ex. växtlighet, gångar, staket eller murar tagits fram.
-</dc:description>
-        <dc:publisher rdf:resource="https://www.raa.se/"/>
-        <dc:title xml:lang="sv">Bebyggelseregistret anläggning</dc:title>
         <dcat:contactPoint rdf:resource="mailto:ksamsok@raa.se"/>
         <dcat:keyword xml:lang="en">culture</dcat:keyword>
         <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
@@ -2617,135 +2617,6 @@ I BeBR betecknar byggnad en funktionellt självständig byggnadskropp, företrä
     </dcat:dataset>
     <dcat:dataset>
       <dcat:Dataset>
-        <dc:description xml:lang="sv">Fisk</dc:description>
-        <dc:publisher rdf:resource="http://www.ajtte.com/"/>
-        <dc:title xml:lang="sv">Ajtte, fisk</dc:title>
-        <dcat:contactPoint rdf:resource="mailto:"/>
-        <dcat:keyword xml:lang="en">culture</dcat:keyword>
-        <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
-        <dcat:keyword xml:lang="en">museum</dcat:keyword>
-        <dcat:keyword xml:lang="sv">museum</dcat:keyword>
-        <dcat:keyword xml:lang="en">history</dcat:keyword>
-        <dcat:keyword xml:lang="sv">historia</dcat:keyword>
-        <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
-        <dc:source rdf:resource="http://www.ajtte.com/"/>
-        <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
-        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
-        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
-        <dcat:distribution>
-          <dcat:Distribution>
-            <dc:description xml:lang="en">A RDF/XML web-API.</dc:description>
-            <dc:description xml:lang="sv">Ett RDF/XML webb-API.</dc:description>
-            <dc:format>application/rdf+xml</dc:format>
-            <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
-            <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
-            <dc:rights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
-            <dcat:accessURL rdf:resource="http://kulturarvsdata.se/ksamsok/api"/>
-          </dcat:Distribution>
-        </dcat:distribution>
-
-        <dcat:distribution>
-          <dcat:Distribution>
-            <dc:description xml:lang="en">A JSON LD web-API.</dc:description>
-            <dc:description xml:lang="sv">Ett JSON LD webb-API.</dc:description>
-            <dc:format>application/json-ld</dc:format>
-            <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
-            <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
-            <dc:rights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
-            <dcat:accessURL rdf:resource="http://kulturarvsdata.se/ksamsok/api"/>
-          </dcat:Distribution>
-        </dcat:distribution>
-      </dcat:Dataset>
-    </dcat:dataset>
-    <dcat:dataset>
-      <dcat:Dataset>
-        <dc:description xml:lang="sv">Fåglar</dc:description>
-        <dc:publisher rdf:resource="http://www.ajtte.com/"/>
-        <dc:title xml:lang="sv">Ajtte, fågel</dc:title>
-        <dcat:contactPoint rdf:resource="mailto:"/>
-        <dcat:keyword xml:lang="en">culture</dcat:keyword>
-        <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
-        <dcat:keyword xml:lang="en">museum</dcat:keyword>
-        <dcat:keyword xml:lang="sv">museum</dcat:keyword>
-        <dcat:keyword xml:lang="en">history</dcat:keyword>
-        <dcat:keyword xml:lang="sv">historia</dcat:keyword>
-        <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
-        <dc:source rdf:resource="http://www.ajtte.com/"/>
-        <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
-        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
-        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
-        <dcat:distribution>
-          <dcat:Distribution>
-            <dc:description xml:lang="en">A RDF/XML web-API.</dc:description>
-            <dc:description xml:lang="sv">Ett RDF/XML webb-API.</dc:description>
-            <dc:format>application/rdf+xml</dc:format>
-            <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
-            <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
-            <dc:rights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
-            <dcat:accessURL rdf:resource="http://kulturarvsdata.se/ksamsok/api"/>
-          </dcat:Distribution>
-        </dcat:distribution>
-
-        <dcat:distribution>
-          <dcat:Distribution>
-            <dc:description xml:lang="en">A JSON LD web-API.</dc:description>
-            <dc:description xml:lang="sv">Ett JSON LD webb-API.</dc:description>
-            <dc:format>application/json-ld</dc:format>
-            <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
-            <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
-            <dc:rights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
-            <dcat:accessURL rdf:resource="http://kulturarvsdata.se/ksamsok/api"/>
-          </dcat:Distribution>
-        </dcat:distribution>
-      </dcat:Dataset>
-    </dcat:dataset>
-    <dcat:dataset>
-      <dcat:Dataset>
-        <dc:description xml:lang="sv">Geologi</dc:description>
-        <dc:publisher rdf:resource="http://www.ajtte.com/"/>
-        <dc:title xml:lang="sv">Ajtte, geologi</dc:title>
-        <dcat:contactPoint rdf:resource="mailto:"/>
-        <dcat:keyword xml:lang="en">culture</dcat:keyword>
-        <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
-        <dcat:keyword xml:lang="en">museum</dcat:keyword>
-        <dcat:keyword xml:lang="sv">museum</dcat:keyword>
-        <dcat:keyword xml:lang="en">history</dcat:keyword>
-        <dcat:keyword xml:lang="sv">historia</dcat:keyword>
-        <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
-        <dc:source rdf:resource="http://www.ajtte.com/"/>
-        <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
-        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
-        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
-        <dcat:distribution>
-          <dcat:Distribution>
-            <dc:description xml:lang="en">A RDF/XML web-API.</dc:description>
-            <dc:description xml:lang="sv">Ett RDF/XML webb-API.</dc:description>
-            <dc:format>application/rdf+xml</dc:format>
-            <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
-            <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
-            <dc:rights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
-            <dcat:accessURL rdf:resource="http://kulturarvsdata.se/ksamsok/api"/>
-          </dcat:Distribution>
-        </dcat:distribution>
-
-        <dcat:distribution>
-          <dcat:Distribution>
-            <dc:description xml:lang="en">A JSON LD web-API.</dc:description>
-            <dc:description xml:lang="sv">Ett JSON LD webb-API.</dc:description>
-            <dc:format>application/json-ld</dc:format>
-            <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
-            <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
-            <dc:rights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
-            <dcat:accessURL rdf:resource="http://kulturarvsdata.se/ksamsok/api"/>
-          </dcat:Distribution>
-        </dcat:distribution>
-      </dcat:Dataset>
-    </dcat:dataset>
-    <dcat:dataset>
-      <dcat:Dataset>
         <dc:description xml:lang="sv">Objekt och föremål</dc:description>
         <dc:publisher rdf:resource="http://www.ajtte.com/"/>
         <dc:title xml:lang="sv">Ajtte, objekt</dc:title>
@@ -2835,6 +2706,135 @@ I BeBR betecknar byggnad en funktionellt självständig byggnadskropp, företrä
         <dc:description xml:lang="sv">Växter</dc:description>
         <dc:publisher rdf:resource="http://www.ajtte.com/"/>
         <dc:title xml:lang="sv">Ajtte, växt</dc:title>
+        <dcat:contactPoint rdf:resource="mailto:"/>
+        <dcat:keyword xml:lang="en">culture</dcat:keyword>
+        <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
+        <dcat:keyword xml:lang="en">museum</dcat:keyword>
+        <dcat:keyword xml:lang="sv">museum</dcat:keyword>
+        <dcat:keyword xml:lang="en">history</dcat:keyword>
+        <dcat:keyword xml:lang="sv">historia</dcat:keyword>
+        <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        <dc:source rdf:resource="http://www.ajtte.com/"/>
+        <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+        <dcat:distribution>
+          <dcat:Distribution>
+            <dc:description xml:lang="en">A RDF/XML web-API.</dc:description>
+            <dc:description xml:lang="sv">Ett RDF/XML webb-API.</dc:description>
+            <dc:format>application/rdf+xml</dc:format>
+            <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
+            <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+            <dc:rights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+            <dcat:accessURL rdf:resource="http://kulturarvsdata.se/ksamsok/api"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+
+        <dcat:distribution>
+          <dcat:Distribution>
+            <dc:description xml:lang="en">A JSON LD web-API.</dc:description>
+            <dc:description xml:lang="sv">Ett JSON LD webb-API.</dc:description>
+            <dc:format>application/json-ld</dc:format>
+            <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
+            <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+            <dc:rights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+            <dcat:accessURL rdf:resource="http://kulturarvsdata.se/ksamsok/api"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+      </dcat:Dataset>
+    </dcat:dataset>
+    <dcat:dataset>
+      <dcat:Dataset>
+        <dc:description xml:lang="sv">Fisk</dc:description>
+        <dc:publisher rdf:resource="http://www.ajtte.com/"/>
+        <dc:title xml:lang="sv">Ajtte, fisk</dc:title>
+        <dcat:contactPoint rdf:resource="mailto:"/>
+        <dcat:keyword xml:lang="en">culture</dcat:keyword>
+        <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
+        <dcat:keyword xml:lang="en">museum</dcat:keyword>
+        <dcat:keyword xml:lang="sv">museum</dcat:keyword>
+        <dcat:keyword xml:lang="en">history</dcat:keyword>
+        <dcat:keyword xml:lang="sv">historia</dcat:keyword>
+        <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        <dc:source rdf:resource="http://www.ajtte.com/"/>
+        <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+        <dcat:distribution>
+          <dcat:Distribution>
+            <dc:description xml:lang="en">A RDF/XML web-API.</dc:description>
+            <dc:description xml:lang="sv">Ett RDF/XML webb-API.</dc:description>
+            <dc:format>application/rdf+xml</dc:format>
+            <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
+            <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+            <dc:rights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+            <dcat:accessURL rdf:resource="http://kulturarvsdata.se/ksamsok/api"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+
+        <dcat:distribution>
+          <dcat:Distribution>
+            <dc:description xml:lang="en">A JSON LD web-API.</dc:description>
+            <dc:description xml:lang="sv">Ett JSON LD webb-API.</dc:description>
+            <dc:format>application/json-ld</dc:format>
+            <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
+            <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+            <dc:rights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+            <dcat:accessURL rdf:resource="http://kulturarvsdata.se/ksamsok/api"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+      </dcat:Dataset>
+    </dcat:dataset>
+    <dcat:dataset>
+      <dcat:Dataset>
+        <dc:description xml:lang="sv">Fåglar</dc:description>
+        <dc:publisher rdf:resource="http://www.ajtte.com/"/>
+        <dc:title xml:lang="sv">Ajtte, fågel</dc:title>
+        <dcat:contactPoint rdf:resource="mailto:"/>
+        <dcat:keyword xml:lang="en">culture</dcat:keyword>
+        <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
+        <dcat:keyword xml:lang="en">museum</dcat:keyword>
+        <dcat:keyword xml:lang="sv">museum</dcat:keyword>
+        <dcat:keyword xml:lang="en">history</dcat:keyword>
+        <dcat:keyword xml:lang="sv">historia</dcat:keyword>
+        <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        <dc:source rdf:resource="http://www.ajtte.com/"/>
+        <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+        <dcat:distribution>
+          <dcat:Distribution>
+            <dc:description xml:lang="en">A RDF/XML web-API.</dc:description>
+            <dc:description xml:lang="sv">Ett RDF/XML webb-API.</dc:description>
+            <dc:format>application/rdf+xml</dc:format>
+            <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
+            <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+            <dc:rights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+            <dcat:accessURL rdf:resource="http://kulturarvsdata.se/ksamsok/api"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+
+        <dcat:distribution>
+          <dcat:Distribution>
+            <dc:description xml:lang="en">A JSON LD web-API.</dc:description>
+            <dc:description xml:lang="sv">Ett JSON LD webb-API.</dc:description>
+            <dc:format>application/json-ld</dc:format>
+            <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
+            <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+            <dc:rights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+            <dcat:accessURL rdf:resource="http://kulturarvsdata.se/ksamsok/api"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+      </dcat:Dataset>
+    </dcat:dataset>
+    <dcat:dataset>
+      <dcat:Dataset>
+        <dc:description xml:lang="sv">Geologi</dc:description>
+        <dc:publisher rdf:resource="http://www.ajtte.com/"/>
+        <dc:title xml:lang="sv">Ajtte, geologi</dc:title>
         <dcat:contactPoint rdf:resource="mailto:"/>
         <dcat:keyword xml:lang="en">culture</dcat:keyword>
         <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
@@ -3090,49 +3090,6 @@ I BeBR betecknar byggnad en funktionellt självständig byggnadskropp, företrä
     </dcat:dataset>
     <dcat:dataset>
       <dcat:Dataset>
-        <dc:description xml:lang="sv">Ljud</dc:description>
-        <dc:publisher rdf:resource="http://www.varldskulturmuseet.se/"/>
-        <dc:title xml:lang="sv">Världskulturmuseet Ljud</dc:title>
-        <dcat:contactPoint rdf:resource="mailto:"/>
-        <dcat:keyword xml:lang="en">culture</dcat:keyword>
-        <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
-        <dcat:keyword xml:lang="en">museum</dcat:keyword>
-        <dcat:keyword xml:lang="sv">museum</dcat:keyword>
-        <dcat:keyword xml:lang="en">history</dcat:keyword>
-        <dcat:keyword xml:lang="sv">historia</dcat:keyword>
-        <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
-        <dc:source rdf:resource="http://www.varldskulturmuseet.se/"/>
-        <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
-        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
-        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
-        <dcat:distribution>
-          <dcat:Distribution>
-            <dc:description xml:lang="en">A RDF/XML web-API.</dc:description>
-            <dc:description xml:lang="sv">Ett RDF/XML webb-API.</dc:description>
-            <dc:format>application/rdf+xml</dc:format>
-            <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
-            <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
-            <dc:rights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
-            <dcat:accessURL rdf:resource="http://kulturarvsdata.se/ksamsok/api"/>
-          </dcat:Distribution>
-        </dcat:distribution>
-
-        <dcat:distribution>
-          <dcat:Distribution>
-            <dc:description xml:lang="en">A JSON LD web-API.</dc:description>
-            <dc:description xml:lang="sv">Ett JSON LD webb-API.</dc:description>
-            <dc:format>application/json-ld</dc:format>
-            <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
-            <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
-            <dc:rights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
-            <dcat:accessURL rdf:resource="http://kulturarvsdata.se/ksamsok/api"/>
-          </dcat:Distribution>
-        </dcat:distribution>
-      </dcat:Dataset>
-    </dcat:dataset>
-    <dcat:dataset>
-      <dcat:Dataset>
         <dc:description xml:lang="sv">Utställningar</dc:description>
         <dc:publisher rdf:resource="http://www.varldskulturmuseet.se/"/>
         <dc:title xml:lang="sv">Världskulturmuseet exhibition</dc:title>
@@ -3179,6 +3136,49 @@ I BeBR betecknar byggnad en funktionellt självständig byggnadskropp, företrä
         <dc:description xml:lang="sv">Showcase</dc:description>
         <dc:publisher rdf:resource="http://www.varldskulturmuseet.se/"/>
         <dc:title xml:lang="sv">Världskulturmuseet showcase</dc:title>
+        <dcat:contactPoint rdf:resource="mailto:"/>
+        <dcat:keyword xml:lang="en">culture</dcat:keyword>
+        <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
+        <dcat:keyword xml:lang="en">museum</dcat:keyword>
+        <dcat:keyword xml:lang="sv">museum</dcat:keyword>
+        <dcat:keyword xml:lang="en">history</dcat:keyword>
+        <dcat:keyword xml:lang="sv">historia</dcat:keyword>
+        <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        <dc:source rdf:resource="http://www.varldskulturmuseet.se/"/>
+        <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+        <dcat:distribution>
+          <dcat:Distribution>
+            <dc:description xml:lang="en">A RDF/XML web-API.</dc:description>
+            <dc:description xml:lang="sv">Ett RDF/XML webb-API.</dc:description>
+            <dc:format>application/rdf+xml</dc:format>
+            <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
+            <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+            <dc:rights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+            <dcat:accessURL rdf:resource="http://kulturarvsdata.se/ksamsok/api"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+
+        <dcat:distribution>
+          <dcat:Distribution>
+            <dc:description xml:lang="en">A JSON LD web-API.</dc:description>
+            <dc:description xml:lang="sv">Ett JSON LD webb-API.</dc:description>
+            <dc:format>application/json-ld</dc:format>
+            <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
+            <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+            <dc:rights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+            <dcat:accessURL rdf:resource="http://kulturarvsdata.se/ksamsok/api"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+      </dcat:Dataset>
+    </dcat:dataset>
+    <dcat:dataset>
+      <dcat:Dataset>
+        <dc:description xml:lang="sv">Ljud</dc:description>
+        <dc:publisher rdf:resource="http://www.varldskulturmuseet.se/"/>
+        <dc:title xml:lang="sv">Världskulturmuseet Ljud</dc:title>
         <dcat:contactPoint rdf:resource="mailto:"/>
         <dcat:keyword xml:lang="en">culture</dcat:keyword>
         <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
@@ -3563,92 +3563,6 @@ I BeBR betecknar byggnad en funktionellt självständig byggnadskropp, företrä
     </dcat:dataset>
     <dcat:dataset>
       <dcat:Dataset>
-        <dc:description xml:lang="sv">Bilder</dc:description>
-        <dc:publisher rdf:resource="http://www.varldskulturmuseerna.se/ostasiatiskamuseet/"/>
-        <dc:title xml:lang="sv">Östasiatiska, bildarkiv</dc:title>
-        <dcat:contactPoint rdf:resource="mailto:"/>
-        <dcat:keyword xml:lang="en">culture</dcat:keyword>
-        <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
-        <dcat:keyword xml:lang="en">museum</dcat:keyword>
-        <dcat:keyword xml:lang="sv">museum</dcat:keyword>
-        <dcat:keyword xml:lang="en">history</dcat:keyword>
-        <dcat:keyword xml:lang="sv">historia</dcat:keyword>
-        <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
-        <dc:source rdf:resource="http://www.varldskulturmuseerna.se/ostasiatiskamuseet/"/>
-        <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
-        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
-        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
-        <dcat:distribution>
-          <dcat:Distribution>
-            <dc:description xml:lang="en">A RDF/XML web-API.</dc:description>
-            <dc:description xml:lang="sv">Ett RDF/XML webb-API.</dc:description>
-            <dc:format>application/rdf+xml</dc:format>
-            <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
-            <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
-            <dc:rights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
-            <dcat:accessURL rdf:resource="http://kulturarvsdata.se/ksamsok/api"/>
-          </dcat:Distribution>
-        </dcat:distribution>
-
-        <dcat:distribution>
-          <dcat:Distribution>
-            <dc:description xml:lang="en">A JSON LD web-API.</dc:description>
-            <dc:description xml:lang="sv">Ett JSON LD webb-API.</dc:description>
-            <dc:format>application/json-ld</dc:format>
-            <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
-            <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
-            <dc:rights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
-            <dcat:accessURL rdf:resource="http://kulturarvsdata.se/ksamsok/api"/>
-          </dcat:Distribution>
-        </dcat:distribution>
-      </dcat:Dataset>
-    </dcat:dataset>
-    <dcat:dataset>
-      <dcat:Dataset>
-        <dc:description xml:lang="sv">Arkivdokument</dc:description>
-        <dc:publisher rdf:resource="http://www.varldskulturmuseerna.se/ostasiatiskamuseet/"/>
-        <dc:title xml:lang="sv">Östasiatiska, arkivdok</dc:title>
-        <dcat:contactPoint rdf:resource="mailto:"/>
-        <dcat:keyword xml:lang="en">culture</dcat:keyword>
-        <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
-        <dcat:keyword xml:lang="en">museum</dcat:keyword>
-        <dcat:keyword xml:lang="sv">museum</dcat:keyword>
-        <dcat:keyword xml:lang="en">history</dcat:keyword>
-        <dcat:keyword xml:lang="sv">historia</dcat:keyword>
-        <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
-        <dc:source rdf:resource="http://www.varldskulturmuseerna.se/ostasiatiskamuseet/"/>
-        <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
-        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
-        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
-        <dcat:distribution>
-          <dcat:Distribution>
-            <dc:description xml:lang="en">A RDF/XML web-API.</dc:description>
-            <dc:description xml:lang="sv">Ett RDF/XML webb-API.</dc:description>
-            <dc:format>application/rdf+xml</dc:format>
-            <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
-            <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
-            <dc:rights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
-            <dcat:accessURL rdf:resource="http://kulturarvsdata.se/ksamsok/api"/>
-          </dcat:Distribution>
-        </dcat:distribution>
-
-        <dcat:distribution>
-          <dcat:Distribution>
-            <dc:description xml:lang="en">A JSON LD web-API.</dc:description>
-            <dc:description xml:lang="sv">Ett JSON LD webb-API.</dc:description>
-            <dc:format>application/json-ld</dc:format>
-            <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
-            <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
-            <dc:rights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
-            <dcat:accessURL rdf:resource="http://kulturarvsdata.se/ksamsok/api"/>
-          </dcat:Distribution>
-        </dcat:distribution>
-      </dcat:Dataset>
-    </dcat:dataset>
-    <dcat:dataset>
-      <dcat:Dataset>
         <dc:description xml:lang="sv">Delutställningar</dc:description>
         <dc:publisher rdf:resource="http://www.varldskulturmuseerna.se/ostasiatiskamuseet/"/>
         <dc:title xml:lang="sv">Östasiatiska delutställning</dc:title>
@@ -3695,6 +3609,92 @@ I BeBR betecknar byggnad en funktionellt självständig byggnadskropp, företrä
         <dc:description xml:lang="sv">Delobjekt</dc:description>
         <dc:publisher rdf:resource="http://www.varldskulturmuseerna.se/ostasiatiskamuseet/"/>
         <dc:title xml:lang="sv">Östasiatiska, delobjekt</dc:title>
+        <dcat:contactPoint rdf:resource="mailto:"/>
+        <dcat:keyword xml:lang="en">culture</dcat:keyword>
+        <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
+        <dcat:keyword xml:lang="en">museum</dcat:keyword>
+        <dcat:keyword xml:lang="sv">museum</dcat:keyword>
+        <dcat:keyword xml:lang="en">history</dcat:keyword>
+        <dcat:keyword xml:lang="sv">historia</dcat:keyword>
+        <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        <dc:source rdf:resource="http://www.varldskulturmuseerna.se/ostasiatiskamuseet/"/>
+        <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+        <dcat:distribution>
+          <dcat:Distribution>
+            <dc:description xml:lang="en">A RDF/XML web-API.</dc:description>
+            <dc:description xml:lang="sv">Ett RDF/XML webb-API.</dc:description>
+            <dc:format>application/rdf+xml</dc:format>
+            <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
+            <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+            <dc:rights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+            <dcat:accessURL rdf:resource="http://kulturarvsdata.se/ksamsok/api"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+
+        <dcat:distribution>
+          <dcat:Distribution>
+            <dc:description xml:lang="en">A JSON LD web-API.</dc:description>
+            <dc:description xml:lang="sv">Ett JSON LD webb-API.</dc:description>
+            <dc:format>application/json-ld</dc:format>
+            <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
+            <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+            <dc:rights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+            <dcat:accessURL rdf:resource="http://kulturarvsdata.se/ksamsok/api"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+      </dcat:Dataset>
+    </dcat:dataset>
+    <dcat:dataset>
+      <dcat:Dataset>
+        <dc:description xml:lang="sv">Bilder</dc:description>
+        <dc:publisher rdf:resource="http://www.varldskulturmuseerna.se/ostasiatiskamuseet/"/>
+        <dc:title xml:lang="sv">Östasiatiska, bildarkiv</dc:title>
+        <dcat:contactPoint rdf:resource="mailto:"/>
+        <dcat:keyword xml:lang="en">culture</dcat:keyword>
+        <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
+        <dcat:keyword xml:lang="en">museum</dcat:keyword>
+        <dcat:keyword xml:lang="sv">museum</dcat:keyword>
+        <dcat:keyword xml:lang="en">history</dcat:keyword>
+        <dcat:keyword xml:lang="sv">historia</dcat:keyword>
+        <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        <dc:source rdf:resource="http://www.varldskulturmuseerna.se/ostasiatiskamuseet/"/>
+        <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+        <dcat:distribution>
+          <dcat:Distribution>
+            <dc:description xml:lang="en">A RDF/XML web-API.</dc:description>
+            <dc:description xml:lang="sv">Ett RDF/XML webb-API.</dc:description>
+            <dc:format>application/rdf+xml</dc:format>
+            <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
+            <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+            <dc:rights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+            <dcat:accessURL rdf:resource="http://kulturarvsdata.se/ksamsok/api"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+
+        <dcat:distribution>
+          <dcat:Distribution>
+            <dc:description xml:lang="en">A JSON LD web-API.</dc:description>
+            <dc:description xml:lang="sv">Ett JSON LD webb-API.</dc:description>
+            <dc:format>application/json-ld</dc:format>
+            <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
+            <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+            <dc:rights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+            <dcat:accessURL rdf:resource="http://kulturarvsdata.se/ksamsok/api"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+      </dcat:Dataset>
+    </dcat:dataset>
+    <dcat:dataset>
+      <dcat:Dataset>
+        <dc:description xml:lang="sv">Arkivdokument</dc:description>
+        <dc:publisher rdf:resource="http://www.varldskulturmuseerna.se/ostasiatiskamuseet/"/>
+        <dc:title xml:lang="sv">Östasiatiska, arkivdok</dc:title>
         <dcat:contactPoint rdf:resource="mailto:"/>
         <dcat:keyword xml:lang="en">culture</dcat:keyword>
         <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
@@ -4816,6 +4816,49 @@ Föremålen fanns vid inventeringen 1990-1995 ute i kyrkorna eller vid museer. D
     </dcat:dataset>
     <dcat:dataset>
       <dcat:Dataset>
+        <dc:description xml:lang="sv">Ca 170 000 av museets föremål räknas som objekt. År 2010 var 80 000 av dessa digitaliserade. Det kan vara t.ex. en hel dräkt, ett svärd, en kruka osv. En dräkt kan sedan vara uppdelad i flera delobjekt. Tillsammans utgör objekt och delobjekt 220 000 föremål.</dc:description>
+        <dc:publisher rdf:resource="http://www.etnografiska.se/"/>
+        <dc:title xml:lang="sv">Etnografiska</dc:title>
+        <dcat:contactPoint rdf:resource="mailto:"/>
+        <dcat:keyword xml:lang="en">culture</dcat:keyword>
+        <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
+        <dcat:keyword xml:lang="en">museum</dcat:keyword>
+        <dcat:keyword xml:lang="sv">museum</dcat:keyword>
+        <dcat:keyword xml:lang="en">history</dcat:keyword>
+        <dcat:keyword xml:lang="sv">historia</dcat:keyword>
+        <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        <dc:source rdf:resource="http://www.etnografiska.se/"/>
+        <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+        <dcat:distribution>
+          <dcat:Distribution>
+            <dc:description xml:lang="en">A RDF/XML web-API.</dc:description>
+            <dc:description xml:lang="sv">Ett RDF/XML webb-API.</dc:description>
+            <dc:format>application/rdf+xml</dc:format>
+            <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
+            <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+            <dc:rights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+            <dcat:accessURL rdf:resource="http://kulturarvsdata.se/ksamsok/api"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+
+        <dcat:distribution>
+          <dcat:Distribution>
+            <dc:description xml:lang="en">A JSON LD web-API.</dc:description>
+            <dc:description xml:lang="sv">Ett JSON LD webb-API.</dc:description>
+            <dc:format>application/json-ld</dc:format>
+            <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
+            <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+            <dc:rights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+            <dcat:accessURL rdf:resource="http://kulturarvsdata.se/ksamsok/api"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+      </dcat:Dataset>
+    </dcat:dataset>
+    <dcat:dataset>
+      <dcat:Dataset>
         <dc:description xml:lang="sv">Utställningar</dc:description>
         <dc:publisher rdf:resource="http://www.etnografiska.se/"/>
         <dc:title xml:lang="sv">Etnografiska utställning</dc:title>
@@ -4905,49 +4948,6 @@ Föremålen fanns vid inventeringen 1990-1995 ute i kyrkorna eller vid museer. D
         <dc:description xml:lang="sv">Video och rörande bilder</dc:description>
         <dc:publisher rdf:resource="http://www.etnografiska.se/"/>
         <dc:title xml:lang="sv">Etnografiska, video</dc:title>
-        <dcat:contactPoint rdf:resource="mailto:"/>
-        <dcat:keyword xml:lang="en">culture</dcat:keyword>
-        <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
-        <dcat:keyword xml:lang="en">museum</dcat:keyword>
-        <dcat:keyword xml:lang="sv">museum</dcat:keyword>
-        <dcat:keyword xml:lang="en">history</dcat:keyword>
-        <dcat:keyword xml:lang="sv">historia</dcat:keyword>
-        <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
-        <dc:source rdf:resource="http://www.etnografiska.se/"/>
-        <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
-        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
-        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
-        <dcat:distribution>
-          <dcat:Distribution>
-            <dc:description xml:lang="en">A RDF/XML web-API.</dc:description>
-            <dc:description xml:lang="sv">Ett RDF/XML webb-API.</dc:description>
-            <dc:format>application/rdf+xml</dc:format>
-            <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
-            <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
-            <dc:rights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
-            <dcat:accessURL rdf:resource="http://kulturarvsdata.se/ksamsok/api"/>
-          </dcat:Distribution>
-        </dcat:distribution>
-
-        <dcat:distribution>
-          <dcat:Distribution>
-            <dc:description xml:lang="en">A JSON LD web-API.</dc:description>
-            <dc:description xml:lang="sv">Ett JSON LD webb-API.</dc:description>
-            <dc:format>application/json-ld</dc:format>
-            <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
-            <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
-            <dc:rights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
-            <dcat:accessURL rdf:resource="http://kulturarvsdata.se/ksamsok/api"/>
-          </dcat:Distribution>
-        </dcat:distribution>
-      </dcat:Dataset>
-    </dcat:dataset>
-    <dcat:dataset>
-      <dcat:Dataset>
-        <dc:description xml:lang="sv">Ca 170 000 av museets föremål räknas som objekt. År 2010 var 80 000 av dessa digitaliserade. Det kan vara t.ex. en hel dräkt, ett svärd, en kruka osv. En dräkt kan sedan vara uppdelad i flera delobjekt. Tillsammans utgör objekt och delobjekt 220 000 föremål.</dc:description>
-        <dc:publisher rdf:resource="http://www.etnografiska.se/"/>
-        <dc:title xml:lang="sv">Etnografiska</dc:title>
         <dcat:contactPoint rdf:resource="mailto:"/>
         <dcat:keyword xml:lang="en">culture</dcat:keyword>
         <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
@@ -5633,9 +5633,9 @@ Föremålen fanns vid inventeringen 1990-1995 ute i kyrkorna eller vid museer. D
     </dcat:dataset>
     <dcat:dataset>
       <dcat:Dataset>
-        <dc:description xml:lang="sv">Delobjet</dc:description>
+        <dc:description xml:lang="sv">Delfotografier</dc:description>
         <dc:publisher rdf:resource="https://helsingborg.se/uppleva-och-gora/kultur-och-museer/kulturmagasinet/"/>
-        <dc:title xml:lang="sv">Kulturmagasinet, Helsingborgs museer, delobjekt</dc:title>
+        <dc:title xml:lang="sv">Kulturmagasinet, Helsingborgs museer, delfotografi</dc:title>
         <dcat:contactPoint rdf:resource="mailto:"/>
         <dcat:keyword xml:lang="en">culture</dcat:keyword>
         <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
@@ -5676,9 +5676,9 @@ Föremålen fanns vid inventeringen 1990-1995 ute i kyrkorna eller vid museer. D
     </dcat:dataset>
     <dcat:dataset>
       <dcat:Dataset>
-        <dc:description xml:lang="sv">Delfotografier</dc:description>
+        <dc:description xml:lang="sv">Delobjet</dc:description>
         <dc:publisher rdf:resource="https://helsingborg.se/uppleva-och-gora/kultur-och-museer/kulturmagasinet/"/>
-        <dc:title xml:lang="sv">Kulturmagasinet, Helsingborgs museer, delfotografi</dc:title>
+        <dc:title xml:lang="sv">Kulturmagasinet, Helsingborgs museer, delobjekt</dc:title>
         <dcat:contactPoint rdf:resource="mailto:"/>
         <dcat:keyword xml:lang="en">culture</dcat:keyword>
         <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
