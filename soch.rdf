@@ -239,9 +239,9 @@
     </dcat:dataset>
     <dcat:dataset>
       <dcat:Dataset>
-        <dc:description xml:lang="sv">Föremål, huvudsakligen från Cypern.</dc:description>
+        <dc:description xml:lang="sv">Video</dc:description>
         <dc:publisher rdf:resource="http://www.medelhavsmuseet.se/"/>
-        <dc:title xml:lang="sv">Medelhavsmuseet, Cyprus</dc:title>
+        <dc:title xml:lang="sv">Medelhavsmuseet, video</dc:title>
         <dcat:contactPoint rdf:resource="mailto:carlotta@medelhavsmuseet.se.se"/>
         <dcat:keyword xml:lang="en">culture</dcat:keyword>
         <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
@@ -282,9 +282,9 @@
     </dcat:dataset>
     <dcat:dataset>
       <dcat:Dataset>
-        <dc:description xml:lang="sv">Video</dc:description>
+        <dc:description xml:lang="sv">Föremål, huvudsakligen från Cypern.</dc:description>
         <dc:publisher rdf:resource="http://www.medelhavsmuseet.se/"/>
-        <dc:title xml:lang="sv">Medelhavsmuseet, video</dc:title>
+        <dc:title xml:lang="sv">Medelhavsmuseet, Cyprus</dc:title>
         <dcat:contactPoint rdf:resource="mailto:carlotta@medelhavsmuseet.se.se"/>
         <dcat:keyword xml:lang="en">culture</dcat:keyword>
         <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
@@ -974,9 +974,9 @@ I ett inventeringsarbete har fältarbetet mestadels gjorts fastighetsvis med en 
     </dcat:dataset>
     <dcat:dataset>
       <dcat:Dataset>
-        <dc:description xml:lang="sv">Bebyggelseregistretsorganisationsregister innehåller förhållandevis få uppgifter i nuläget. Registret kommer att omarbetas framöver, men ingen tidsplan är fastställd ännu.</dc:description>
+        <dc:description xml:lang="sv">Bebyggelseregistrets personregister innehåller förhållandevis få uppgifter i nuläget. Registret kommer att omarbetas framöver, men ingen tidsplan är fastställd ännu.</dc:description>
         <dc:publisher rdf:resource="https://www.raa.se/"/>
-        <dc:title xml:lang="sv">Bebyggelseregistret organisationer</dc:title>
+        <dc:title xml:lang="sv">Bebyggelseregistret personer</dc:title>
         <dcat:contactPoint rdf:resource="mailto:ksamsok@raa.se"/>
         <dcat:keyword xml:lang="en">culture</dcat:keyword>
         <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
@@ -1017,9 +1017,9 @@ I ett inventeringsarbete har fältarbetet mestadels gjorts fastighetsvis med en 
     </dcat:dataset>
     <dcat:dataset>
       <dcat:Dataset>
-        <dc:description xml:lang="sv">Bebyggelseregistrets personregister innehåller förhållandevis få uppgifter i nuläget. Registret kommer att omarbetas framöver, men ingen tidsplan är fastställd ännu.</dc:description>
+        <dc:description xml:lang="sv">Bebyggelseregistretsorganisationsregister innehåller förhållandevis få uppgifter i nuläget. Registret kommer att omarbetas framöver, men ingen tidsplan är fastställd ännu.</dc:description>
         <dc:publisher rdf:resource="https://www.raa.se/"/>
-        <dc:title xml:lang="sv">Bebyggelseregistret personer</dc:title>
+        <dc:title xml:lang="sv">Bebyggelseregistret organisationer</dc:title>
         <dcat:contactPoint rdf:resource="mailto:ksamsok@raa.se"/>
         <dcat:keyword xml:lang="en">culture</dcat:keyword>
         <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
@@ -3819,9 +3819,9 @@ Data om runinskrifter av nordiskt ursprung/karaktär.</dc:description>
     </dcat:dataset>
     <dcat:dataset>
       <dcat:Dataset>
-        <dc:description xml:lang="sv">Ca 30 000 sidor ur generalkatalogen med ocr-tolkning.</dc:description>
+        <dc:description xml:lang="sv">Slinga</dc:description>
         <dc:publisher rdf:resource="http://www.etnografiska.se/"/>
-        <dc:title xml:lang="sv">Etnografiska Arkiv</dc:title>
+        <dc:title xml:lang="sv">Etnografiska slinga</dc:title>
         <dcat:contactPoint rdf:resource="mailto:"/>
         <dcat:keyword xml:lang="en">culture</dcat:keyword>
         <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
@@ -3862,9 +3862,9 @@ Data om runinskrifter av nordiskt ursprung/karaktär.</dc:description>
     </dcat:dataset>
     <dcat:dataset>
       <dcat:Dataset>
-        <dc:description xml:lang="sv">Slinga</dc:description>
+        <dc:description xml:lang="sv">Ca 30 000 sidor ur generalkatalogen med ocr-tolkning.</dc:description>
         <dc:publisher rdf:resource="http://www.etnografiska.se/"/>
-        <dc:title xml:lang="sv">Etnografiska slinga</dc:title>
+        <dc:title xml:lang="sv">Etnografiska Arkiv</dc:title>
         <dcat:contactPoint rdf:resource="mailto:"/>
         <dcat:keyword xml:lang="en">culture</dcat:keyword>
         <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
@@ -4206,6 +4206,49 @@ Data om runinskrifter av nordiskt ursprung/karaktär.</dc:description>
     </dcat:dataset>
     <dcat:dataset>
       <dcat:Dataset>
+        <dc:description xml:lang="sv">Ca 170 000 av museets föremål räknas som objekt. År 2010 var 80 000 av dessa digitaliserade. Det kan vara t.ex. en hel dräkt, ett svärd, en kruka osv. En dräkt kan sedan vara uppdelad i flera delobjekt. Tillsammans utgör objekt och delobjekt 220 000 föremål.</dc:description>
+        <dc:publisher rdf:resource="http://www.etnografiska.se/"/>
+        <dc:title xml:lang="sv">Etnografiska</dc:title>
+        <dcat:contactPoint rdf:resource="mailto:"/>
+        <dcat:keyword xml:lang="en">culture</dcat:keyword>
+        <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
+        <dcat:keyword xml:lang="en">museum</dcat:keyword>
+        <dcat:keyword xml:lang="sv">museum</dcat:keyword>
+        <dcat:keyword xml:lang="en">history</dcat:keyword>
+        <dcat:keyword xml:lang="sv">historia</dcat:keyword>
+        <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
+        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        <dc:source rdf:resource="http://www.etnografiska.se/"/>
+        <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+        <dcat:distribution>
+          <dcat:Distribution>
+            <dc:description xml:lang="en">A RDF/XML web-API.</dc:description>
+            <dc:description xml:lang="sv">Ett RDF/XML webb-API.</dc:description>
+            <dc:format>application/rdf+xml</dc:format>
+            <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
+            <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+            <dc:rights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+            <dcat:accessURL rdf:resource="http://kulturarvsdata.se/ksamsok/api"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+
+        <dcat:distribution>
+          <dcat:Distribution>
+            <dc:description xml:lang="en">A JSON LD web-API.</dc:description>
+            <dc:description xml:lang="sv">Ett JSON LD webb-API.</dc:description>
+            <dc:format>application/json-ld</dc:format>
+            <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
+            <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+            <dc:rights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
+            <dcat:accessURL rdf:resource="http://kulturarvsdata.se/ksamsok/api"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+      </dcat:Dataset>
+    </dcat:dataset>
+    <dcat:dataset>
+      <dcat:Dataset>
         <dc:description xml:lang="sv">Utställningar</dc:description>
         <dc:publisher rdf:resource="http://www.etnografiska.se/"/>
         <dc:title xml:lang="sv">Etnografiska utställning</dc:title>
@@ -4335,9 +4378,9 @@ Data om runinskrifter av nordiskt ursprung/karaktär.</dc:description>
     </dcat:dataset>
     <dcat:dataset>
       <dcat:Dataset>
-        <dc:description xml:lang="sv">Ca 170 000 av museets föremål räknas som objekt. År 2010 var 80 000 av dessa digitaliserade. Det kan vara t.ex. en hel dräkt, ett svärd, en kruka osv. En dräkt kan sedan vara uppdelad i flera delobjekt. Tillsammans utgör objekt och delobjekt 220 000 föremål.</dc:description>
+        <dc:description xml:lang="sv">Ca 50 000 av museets föremål räknas som delobjekt. Det kan vara t.ex. delarna i en dräkt, vänster sko, höger sko, en jacka osv. År 2010 var ca 20 000 av dessa digitaliserade.</dc:description>
         <dc:publisher rdf:resource="http://www.etnografiska.se/"/>
-        <dc:title xml:lang="sv">Etnografiska</dc:title>
+        <dc:title xml:lang="sv">Etnografiska delobjekt</dc:title>
         <dcat:contactPoint rdf:resource="mailto:"/>
         <dcat:keyword xml:lang="en">culture</dcat:keyword>
         <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
@@ -4381,49 +4424,6 @@ Data om runinskrifter av nordiskt ursprung/karaktär.</dc:description>
         <dc:description xml:lang="sv">Fotografier</dc:description>
         <dc:publisher rdf:resource="http://www.etnografiska.se/"/>
         <dc:title xml:lang="sv">Etnografiska fotografisk</dc:title>
-        <dcat:contactPoint rdf:resource="mailto:"/>
-        <dcat:keyword xml:lang="en">culture</dcat:keyword>
-        <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
-        <dcat:keyword xml:lang="en">museum</dcat:keyword>
-        <dcat:keyword xml:lang="sv">museum</dcat:keyword>
-        <dcat:keyword xml:lang="en">history</dcat:keyword>
-        <dcat:keyword xml:lang="sv">historia</dcat:keyword>
-        <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
-        <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
-        <dc:source rdf:resource="http://www.etnografiska.se/"/>
-        <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
-        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
-        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
-        <dcat:distribution>
-          <dcat:Distribution>
-            <dc:description xml:lang="en">A RDF/XML web-API.</dc:description>
-            <dc:description xml:lang="sv">Ett RDF/XML webb-API.</dc:description>
-            <dc:format>application/rdf+xml</dc:format>
-            <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
-            <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
-            <dc:rights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
-            <dcat:accessURL rdf:resource="http://kulturarvsdata.se/ksamsok/api"/>
-          </dcat:Distribution>
-        </dcat:distribution>
-
-        <dcat:distribution>
-          <dcat:Distribution>
-            <dc:description xml:lang="en">A JSON LD web-API.</dc:description>
-            <dc:description xml:lang="sv">Ett JSON LD webb-API.</dc:description>
-            <dc:format>application/json-ld</dc:format>
-            <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
-            <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
-            <dc:rights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
-            <dcat:accessURL rdf:resource="http://kulturarvsdata.se/ksamsok/api"/>
-          </dcat:Distribution>
-        </dcat:distribution>
-      </dcat:Dataset>
-    </dcat:dataset>
-    <dcat:dataset>
-      <dcat:Dataset>
-        <dc:description xml:lang="sv">Ca 50 000 av museets föremål räknas som delobjekt. Det kan vara t.ex. delarna i en dräkt, vänster sko, höger sko, en jacka osv. År 2010 var ca 20 000 av dessa digitaliserade.</dc:description>
-        <dc:publisher rdf:resource="http://www.etnografiska.se/"/>
-        <dc:title xml:lang="sv">Etnografiska delobjekt</dc:title>
         <dcat:contactPoint rdf:resource="mailto:"/>
         <dcat:keyword xml:lang="en">culture</dcat:keyword>
         <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
