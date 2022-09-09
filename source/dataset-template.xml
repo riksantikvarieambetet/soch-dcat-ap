@@ -24,7 +24,7 @@
             <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
             <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
             <dc:rights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
-            <dcat:accessURL rdf:resource="http://kulturarvsdata.se/ksamsok/api"/>
+            <dcat:accessURL rdf:resource="https://kulturarvsdata.se/ksamsok/api"/>
           </dcat:Distribution>
         </dcat:distribution>
 
@@ -36,7 +36,7 @@
             <foaf:page rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/api/"/>
             <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
             <dc:rights rdf:resource="https://www.raa.se/hitta-information/k-samsok/att-anvanda-k-samsok/anvandarvillkor/"/>
-            <dcat:accessURL rdf:resource="http://kulturarvsdata.se/ksamsok/api"/>
+            <dcat:accessURL rdf:resource="https://kulturarvsdata.se/ksamsok/api"/>
           </dcat:Distribution>
         </dcat:distribution>
       </dcat:Dataset>
